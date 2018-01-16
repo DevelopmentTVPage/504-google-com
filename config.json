@@ -1,0 +1,15 @@
+{
+    "title": "My Project",
+    "baseURL": "https:\/\/google.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "521",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "google.com"
+    }
+}
