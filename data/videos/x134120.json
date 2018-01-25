@@ -1,0 +1,40 @@
+{
+    "title": "Video Tutorial de c\u00f3mo configurar un DMX con l\u00e1mparas de LED",
+    "description": "Video donde te mostraremos c\u00f3mo conectar y c\u00f3mo configurar las l\u00e1mparas LED-240 y PAR-064 conectadas a nuestro DMX-100. Paso a paso aprender\u00e1s c\u00f3mo manipular...",
+    "referenceId": null,
+    "date_created": "1385165259",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134120",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-Tutorial-de-c\u00f3mo-configurar-un-DMX-con-l\u00e1mparas-de-LED",
+    "category": null,
+    "duration": 295,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "ccICsdRw6j0",
+        "hookText": "Video donde te mostraremos c\u00f3mo conectar y c\u00f3mo configurar las l\u00e1mparas LED-240 y PAR-064 conectadas a nuestro DMX-100. Paso a paso aprender\u00e1s c\u00f3mo manipular...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ccICsdRw6j0\/maxresdefault.jpg",
+        "mediaDuration": "295",
+        "hdvFlag": 1,
+        "uploadDate": 1347418358,
+        "prettyDuration": "04:55"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 244.87054
+}

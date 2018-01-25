@@ -1,0 +1,41 @@
+{
+    "title": "On the streets of Pasadena... hours before the Rose Parade.",
+    "description": "Experience the excitement on the streets of Pasadena hours before the Rose Parade.",
+    "referenceId": null,
+    "date_created": "1394589014",
+    "date_modified": "1418181174",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144692",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "On-the-streets-of-Pasadena-hours-before-the-Rose-Parade",
+    "category": null,
+    "duration": 102,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "9bMlbKwstiE",
+        "hookText": "Experience the excitement on the streets of Pasadena hours before the Rose Parade.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9bMlbKwstiE\/maxresdefault.jpg",
+        "mediaDuration": "102",
+        "hdvFlag": 1,
+        "uploadDate": 1293903082,
+        "prettyDuration": "01:42"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9894.341
+}

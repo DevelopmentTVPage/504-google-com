@@ -1,0 +1,42 @@
+{
+    "title": "Nike Sportswear Presents: Nike Tech Pack",
+    "description": "Nike Tech Pack: Engineered to the exact specifications of championship athletes. Now available in our online shop: http:\/\/nike.com\/sportswear 17 athletes. 12...",
+    "referenceId": null,
+    "date_created": "1424454624",
+    "date_modified": "1424454624",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824492",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Sportswear-Presents-Nike-Tech-Pack",
+    "category": null,
+    "duration": 111,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "L8RP9Hxw34Q",
+        "hookText": "Nike Tech Pack: Engineered to the exact specifications of championship athletes. Now available in our online shop: http:\/\/nike.com\/sportswear 17 athletes. 12...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/L8RP9Hxw34Q\/maxresdefault.jpg",
+        "mediaDuration": "111",
+        "hdvFlag": 1,
+        "uploadDate": 1376953489,
+        "prettyDuration": "01:51"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 339.4684
+}

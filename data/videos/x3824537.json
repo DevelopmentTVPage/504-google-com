@@ -1,0 +1,43 @@
+{
+    "title": "Introducing Nike FuelStation London",
+    "description": "Nike opens the world's first ever Nike FuelStation at Boxpark London - a retail space like no other designed for today's digitally enabled athlete.",
+    "referenceId": null,
+    "date_created": "1424454628",
+    "date_modified": "1424454628",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824537",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Introducing-Nike-FuelStation-London",
+    "category": null,
+    "duration": 45,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "y3yaVEa2UkM",
+        "hookText": "Nike opens the world's first ever Nike FuelStation at Boxpark London - a retail space like no other designed for today's digitally enabled athlete.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/y3yaVEa2UkM\/maxresdefault.jpg",
+        "mediaDuration": "45",
+        "hdvFlag": 1,
+        "uploadDate": 1331146441,
+        "prettyDuration": "00:45"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26",
+        "12",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 263.34702
+}

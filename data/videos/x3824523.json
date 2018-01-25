@@ -1,0 +1,43 @@
+{
+    "title": "Nike+ Training: Train Like Perri Shakes-Drayton",
+    "description": "Perri Shakes-Drayton performs tuck jumps over hurdles in the Nike Lunar HyperWorkout+ shoe. The Nike Lunar HyperWorkout+ shoe captures reps, NikeFuel and cal...",
+    "referenceId": null,
+    "date_created": "1424454627",
+    "date_modified": "1424454627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824523",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Training-Train-Like-Perri-Shakes-Drayton",
+    "category": null,
+    "duration": 39,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "sPgSRrUs80s",
+        "hookText": "Perri Shakes-Drayton performs tuck jumps over hurdles in the Nike Lunar HyperWorkout+ shoe. The Nike Lunar HyperWorkout+ shoe captures reps, NikeFuel and cal...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/sPgSRrUs80s\/maxresdefault.jpg",
+        "mediaDuration": "39",
+        "hdvFlag": 1,
+        "uploadDate": 1340578662,
+        "prettyDuration": "00:39"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "34",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 75.6936
+}

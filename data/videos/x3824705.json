@@ -1,0 +1,42 @@
+{
+    "title": "The Chance",
+    "description": "Nike is looking for football's undiscovered talent.\nGet Noticed. Get Scouted. Get Signed.\nNikesoccer.com",
+    "referenceId": null,
+    "date_created": "1424454644",
+    "date_modified": "1424454644",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824705",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "The-Chance",
+    "category": null,
+    "duration": 61,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "tfx9vmJhFVQ",
+        "hookText": "Nike is looking for football's undiscovered talent.\nGet Noticed. Get Scouted. Get Signed.\nNikesoccer.com",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/tfx9vmJhFVQ\/hqdefault.jpg",
+        "mediaDuration": "61",
+        "hdvFlag": 0,
+        "uploadDate": 1276456882,
+        "prettyDuration": "01:01"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 171.73743
+}

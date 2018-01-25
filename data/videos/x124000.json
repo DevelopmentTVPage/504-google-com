@@ -1,0 +1,42 @@
+{
+    "title": "MNGbyMANGO Mission Barcelona",
+    "description": "Behind the scenes video of Style Coalition's MNG by MANGO Mission trip to Barcelona!",
+    "referenceId": null,
+    "date_created": "1381779348",
+    "date_modified": "1418181067",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "124000",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "MNGbyMANGO-Mission-Barcelona",
+    "category": null,
+    "duration": 118,
+    "settings": [],
+    "asset": {
+        "author": "StyleCoalition",
+        "videoId": "KLKZLniHK2c",
+        "hookText": "Behind the scenes video of Style Coalition's MNG by MANGO Mission trip to Barcelona!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KLKZLniHK2c\/mqdefault.jpg",
+        "mediaDuration": "118",
+        "hdvFlag": 1,
+        "uploadDate": 1321326382,
+        "prettyDuration": "01:58"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "9",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 199.72488
+}

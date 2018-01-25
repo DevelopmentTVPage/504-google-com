@@ -1,0 +1,42 @@
+{
+    "title": "Dog Wedding at BarkWorld",
+    "description": "The wedding of Stedman and Phoenix at the 2011 BarkWorld conference in Atlanta, GA.",
+    "referenceId": null,
+    "date_created": "1394588999",
+    "date_modified": "1418181172",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144558",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Dog-Wedding-at-BarkWorld",
+    "category": null,
+    "duration": 229,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "Z04MEVnOF1g",
+        "hookText": "The wedding of Stedman and Phoenix at the 2011 BarkWorld conference in Atlanta, GA.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Z04MEVnOF1g\/maxresdefault.jpg",
+        "mediaDuration": "229",
+        "hdvFlag": 1,
+        "uploadDate": 1317551812,
+        "prettyDuration": "03:49"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "8",
+        "11",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 132.92924
+}

@@ -1,0 +1,42 @@
+{
+    "title": "African Grey",
+    "description": "http:\/\/video.petco.com\/?v=16824 Learn more about this type of bird in this short video. http:\/\/www.petco.com.",
+    "referenceId": null,
+    "date_created": "1394818931",
+    "date_modified": "1418181189",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "146028",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "African-Grey",
+    "category": null,
+    "duration": 59,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "T2WHI1a3lZg",
+        "hookText": "http:\/\/video.petco.com\/?v=16824 Learn more about this type of bird in this short video. http:\/\/www.petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/T2WHI1a3lZg\/maxresdefault.jpg",
+        "mediaDuration": "59",
+        "hdvFlag": 1,
+        "uploadDate": 1308035173,
+        "prettyDuration": "00:59"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2",
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 274.24524
+}

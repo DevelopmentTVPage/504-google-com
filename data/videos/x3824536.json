@@ -1,0 +1,41 @@
+{
+    "title": "NikeFuel & VEVO Present: I'm With The Band",
+    "description": "Sleigh Bells, Major Lazer, Girl Talk, Duck Sauce, Neon Trees, Machine Gun Kelly, The Shins, Nas, Shut Up And Play The Hits, and Nike Athletes.",
+    "referenceId": null,
+    "date_created": "1424454628",
+    "date_modified": "1424454628",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824536",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "NikeFuel-VEVO-Present-I-m-With-The-Band",
+    "category": null,
+    "duration": 29,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "V3xJO2X_2xQ",
+        "hookText": "Sleigh Bells, Major Lazer, Girl Talk, Duck Sauce, Neon Trees, Machine Gun Kelly, The Shins, Nas, Shut Up And Play The Hits, and Nike Athletes.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/V3xJO2X_2xQ\/maxresdefault.jpg",
+        "mediaDuration": "29",
+        "hdvFlag": 1,
+        "uploadDate": 1331354272,
+        "prettyDuration": "00:29"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 344.09955
+}

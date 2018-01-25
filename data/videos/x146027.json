@@ -1,0 +1,42 @@
+{
+    "title": "Guinea Pigs",
+    "description": "http:\/\/video.petco.com\/?v=16854 Learn more about this small animal in this short video. http:\/\/www.petco.com.",
+    "referenceId": null,
+    "date_created": "1394818930",
+    "date_modified": "1418181189",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "146027",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Guinea-Pigs",
+    "category": null,
+    "duration": 99,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "nOMN_eW6_Lc",
+        "hookText": "http:\/\/video.petco.com\/?v=16854 Learn more about this small animal in this short video. http:\/\/www.petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nOMN_eW6_Lc\/sddefault.jpg",
+        "mediaDuration": "99",
+        "hdvFlag": 0,
+        "uploadDate": 1308116590,
+        "prettyDuration": "01:39"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2",
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 239.18355
+}

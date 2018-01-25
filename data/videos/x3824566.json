@@ -1,0 +1,41 @@
+{
+    "title": "2011 Doernbecher Design - Isaiah Scott",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1424454631",
+    "date_modified": "1424454631",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824566",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "2011-Doernbecher-Design-Isaiah-Scott",
+    "category": null,
+    "duration": 189,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "n4jPxTuHrmo",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/n4jPxTuHrmo\/maxresdefault.jpg",
+        "mediaDuration": "189",
+        "hdvFlag": 1,
+        "uploadDate": 1320199752,
+        "prettyDuration": "03:09"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 12.58685
+}

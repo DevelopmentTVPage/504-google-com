@@ -1,0 +1,40 @@
+{
+    "title": "One Billion Views!",
+    "description": "We got a billion youtube views!",
+    "referenceId": null,
+    "date_created": "1396559755",
+    "date_modified": "1418181241",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149575",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "One-Billion-Views",
+    "category": null,
+    "duration": 58,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "M2Zv6Qt0DBo",
+        "hookText": "We got a billion youtube views!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/M2Zv6Qt0DBo\/maxresdefault.jpg",
+        "mediaDuration": "58",
+        "hdvFlag": 1,
+        "uploadDate": 1342569111,
+        "prettyDuration": "00:58"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 241.5518
+}

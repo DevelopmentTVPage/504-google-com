@@ -1,0 +1,42 @@
+{
+    "title": "Air Superiority",
+    "description": "The next chapter in Air Max history.",
+    "referenceId": null,
+    "date_created": "1424454623",
+    "date_modified": "1424454623",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824487",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Air-Superiority",
+    "category": null,
+    "duration": 13,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "-jgGPtG0SVY",
+        "hookText": "The next chapter in Air Max history.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-jgGPtG0SVY\/sddefault.jpg",
+        "mediaDuration": "13",
+        "hdvFlag": 1,
+        "uploadDate": 1385864782,
+        "prettyDuration": "00:13"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 136.48508
+}

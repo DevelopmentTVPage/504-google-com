@@ -1,0 +1,43 @@
+{
+    "title": "Skydiving in San Diego",
+    "description": "My first experience of skydiving in San Diego, California. Best experience ever !",
+    "referenceId": "eJ7Jm5gDSPY",
+    "date_created": "1477613239",
+    "date_modified": "1477613239",
+    "tags": null,
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "77559763",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Skydiving-in-San-Diego",
+    "category": null,
+    "duration": 434,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "baybi13",
+        "hdvFlag": 1,
+        "description": "My first experience of skydiving in San Diego, California. Best experience ever !",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eJ7Jm5gDSPY\/hqdefault.jpg",
+        "videoId": "eJ7Jm5gDSPY",
+        "mediaDuration": 434,
+        "prettyDuration": "00:07:14"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32",
+        "25",
+        "3"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 101.075745
+}

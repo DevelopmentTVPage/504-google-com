@@ -1,0 +1,40 @@
+{
+    "title": "Episode 6: TVPage Analytics",
+    "description": "Measure your videos' reach, clicks, and conversion to sales with TVPage's expanded analytics!",
+    "referenceId": null,
+    "date_created": "1386797326",
+    "date_modified": "1418181127",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135982",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-6-TVPage-Analytics",
+    "category": null,
+    "duration": 191,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "fjPw5zcRcsI",
+        "hookText": "Measure your videos' reach, clicks, and conversion to sales with TVPage's expanded analytics!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/fjPw5zcRcsI\/maxresdefault.jpg",
+        "mediaDuration": "191",
+        "hdvFlag": 1,
+        "uploadDate": 1385085942,
+        "prettyDuration": "03:11"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 86.24873
+}

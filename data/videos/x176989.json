@@ -1,0 +1,42 @@
+{
+    "title": "Waxie. A TVPage Case Study.",
+    "description": "WAXIE Sanitary Supply is an industry leader in the distribution of quality sanitary and related supplies. Their diverse product offering is supported by a comprehensive video content library,...",
+    "referenceId": null,
+    "date_created": "1402367749",
+    "date_modified": "1418181560",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "176989",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Waxie-A-TVPage-Case-Study",
+    "category": null,
+    "duration": 170,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "hdvFlag": 1,
+        "hookText": "WAXIE Sanitary Supply is an industry leader in the distribution of quality sanitary and related supplies. Their diverse product offering is supported by a comprehensive video content library,...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/kxCgQVcQAAk\/sddefault.jpg",
+        "uploadDate": 1402220461,
+        "videoId": "kxCgQVcQAAk",
+        "mediaDuration": "170",
+        "prettyDuration": "02:50"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 379.9335
+}

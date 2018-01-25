@@ -1,0 +1,43 @@
+{
+    "title": "Nike+ FuelBand presents: Summer in NYC",
+    "description": "https:\/\/twitter.com\/nikenyc It started with a skate park. On a barge. With P-Rod. Follow @NikeNYC to find out what's next. The more you move with the Nike+ F...",
+    "referenceId": null,
+    "date_created": "1424454624",
+    "date_modified": "1424454660",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824729",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-FuelBand-presents-Summer-in-NYC",
+    "category": null,
+    "duration": 90,
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "_IGu-vBMACg",
+        "hookText": "https:\/\/twitter.com\/nikenyc It started with a skate park. On a barge. With P-Rod. Follow @NikeNYC to find out what's next. The more you move with the Nike+ F...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_IGu-vBMACg\/maxresdefault.jpg",
+        "mediaDuration": "90",
+        "hdvFlag": 1,
+        "uploadDate": 1373505435,
+        "prettyDuration": "01:30"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "28",
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 472.06635
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Episode 4: Publish and Syndicate",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1386797326",
+    "date_modified": "1418181128",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135984",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-4-Publish-and-Syndicate",
+    "category": null,
+    "duration": 537,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "CARY5PwRuiI",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CARY5PwRuiI\/maxresdefault.jpg",
+        "mediaDuration": "537",
+        "hdvFlag": 1,
+        "uploadDate": 1384856952,
+        "prettyDuration": "08:57"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32",
+        "14",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 12.128696
+}

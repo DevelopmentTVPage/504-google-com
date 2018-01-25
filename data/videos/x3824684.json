@@ -1,0 +1,42 @@
+{
+    "title": "Nike Running Presents: The Flyknit Lunar1+",
+    "description": "The perfect fit, for the perfect run. \n\nShop the new Nike Flyknit Lunar1+ here: http:\/\/gonike.me\/FlyknitLunar1",
+    "referenceId": null,
+    "date_created": "1424454642",
+    "date_modified": "1424454642",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824684",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Running-Presents-The-Flyknit-Lunar1",
+    "category": null,
+    "duration": 48,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "ZfUV-eU0RaY",
+        "hookText": "The perfect fit, for the perfect run. \n\nShop the new Nike Flyknit Lunar1+ here: http:\/\/gonike.me\/FlyknitLunar1",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ZfUV-eU0RaY\/maxresdefault.jpg",
+        "mediaDuration": "48",
+        "hdvFlag": 1,
+        "uploadDate": 1359809312,
+        "prettyDuration": "00:48"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 385.4987
+}

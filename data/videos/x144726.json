@@ -1,0 +1,42 @@
+{
+    "title": "Meet Porter, The Skimboarding Dog",
+    "description": "This is Porter, he will be skimboarding on the 2011 Natural Balance Rose Parade Float.",
+    "referenceId": null,
+    "date_created": "1394589018",
+    "date_modified": "1418181174",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144726",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Meet-Porter-The-Skimboarding-Dog",
+    "category": null,
+    "duration": 60,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "69e49VUN4Yw",
+        "hookText": "This is Porter, he will be skimboarding on the 2011 Natural Balance Rose Parade Float.",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/69e49VUN4Yw\/hqdefault.jpg",
+        "mediaDuration": "60",
+        "hdvFlag": 0,
+        "uploadDate": 1293585184,
+        "prettyDuration": "01:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "13",
+        "8",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 190.42084
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Video del Proyecto 15 - Vumetro, Steren",
+    "description": "Video que muestra el funcionamiento y los componentes del Proyecto #15, Medidor de potencia de audio o V\u00fametro. Para ver la secci\u00f3n de los proyectos da click...",
+    "referenceId": null,
+    "date_created": "1385165264",
+    "date_modified": "1418181113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134167",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-del-Proyecto-15-Vumetro-Steren",
+    "category": null,
+    "duration": 102,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "pL1ShfTBFIc",
+        "hookText": "Video que muestra el funcionamiento y los componentes del Proyecto #15, Medidor de potencia de audio o V\u00fametro. Para ver la secci\u00f3n de los proyectos da click...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pL1ShfTBFIc\/maxresdefault.jpg",
+        "mediaDuration": "102",
+        "hdvFlag": 1,
+        "uploadDate": 1311821531,
+        "prettyDuration": "01:42"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 342.5717
+}

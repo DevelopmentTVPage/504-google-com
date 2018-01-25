@@ -1,0 +1,53 @@
+{
+    "title": "Intel-Powered Tablets Fuel Family Road Trip Fun-oVKEBW847d8.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1439398423",
+    "date_modified": "1439398619",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "6296718",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Intel-Powered-Tablets-Fuel-Family-Road-Trip-Fun-oVKEBW847d8-mp4",
+    "category": null,
+    "duration": 30,
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/6296718\/200af401_0aba_43de_f47f_6b8f690b5433.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/6296718\/720p_200af401_0aba_43de_f47f_6b8f690b5433.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/6296718\/480p_200af401_0aba_43de_f47f_6b8f690b5433.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/6296718\/360p_200af401_0aba_43de_f47f_6b8f690b5433.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/assets\/thumb\/mp4default.jpg",
+        "mediaDuration": "30",
+        "prettyDuration": "00:30"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "28"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 187.04552
+}

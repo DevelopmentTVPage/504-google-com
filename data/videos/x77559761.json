@@ -1,0 +1,43 @@
+{
+    "title": "Skydive San Diego",
+    "description": "Brother and sister jump.",
+    "referenceId": "cfayLgPgIy8",
+    "date_created": "1477613232",
+    "date_modified": "1477613232",
+    "tags": null,
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "77559761",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Skydive-San-Diego",
+    "category": null,
+    "duration": 203,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nguyen NGOC",
+        "hdvFlag": 1,
+        "description": "Brother and sister jump.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/cfayLgPgIy8\/hqdefault.jpg",
+        "videoId": "cfayLgPgIy8",
+        "mediaDuration": 203,
+        "prettyDuration": "00:03:23"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "28",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 11.219828
+}

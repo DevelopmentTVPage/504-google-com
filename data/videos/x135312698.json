@@ -1,0 +1,85 @@
+{
+    "title": "Apple \u2013 iPhone 7 and iPhone 7 Plus in 107 seconds.mp4",
+    "description": "",
+    "referenceId": "bcb746f6e27ce775c3058aab3326c88d",
+    "date_created": "1516919623",
+    "date_modified": "1516920311",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "pending",
+    "visibility": "1",
+    "id": "135312698",
+    "loginId": "521",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "135312699",
+    "titleTextEncoded": "Apple-iPhone-7-and-iPhone-7-Plus-in-107-seconds-mp4",
+    "category": "",
+    "duration": "119",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "119",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "119",
+        "prettyDuration": "00:01:59",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/thumb-bcb746f6e27ce775c3058aab3326c88d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 0
+}

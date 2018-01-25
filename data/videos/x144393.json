@@ -1,0 +1,42 @@
+{
+    "title": "See How Innova Is Made",
+    "description": "http:\/\/video.petco.com\/?v=35804 See How Innova Is Made: watch this video featuring products available on petco.com.",
+    "referenceId": null,
+    "date_created": "1394588981",
+    "date_modified": "1418181170",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144393",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "See-How-Innova-Is-Made",
+    "category": null,
+    "duration": 123,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "hbi3nmfFHFg",
+        "hookText": "http:\/\/video.petco.com\/?v=35804 See How Innova Is Made: watch this video featuring products available on petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/hbi3nmfFHFg\/hqdefault.jpg",
+        "mediaDuration": "123",
+        "hdvFlag": 0,
+        "uploadDate": 1343257599,
+        "prettyDuration": "02:03"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "18",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 5409.764
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Bil-Jac Benefits and Treats",
+    "description": "http:\/\/video.petco.com\/?v=18100 Watch this video featuring products available on petco.com.",
+    "referenceId": null,
+    "date_created": "1394589002",
+    "date_modified": "1418181172",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144585",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Bil-Jac-Benefits-and-Treats",
+    "category": null,
+    "duration": 65,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "ZzT2I34Kgi4",
+        "hookText": "http:\/\/video.petco.com\/?v=18100 Watch this video featuring products available on petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ZzT2I34Kgi4\/sddefault.jpg",
+        "mediaDuration": "65",
+        "hdvFlag": 0,
+        "uploadDate": 1312955624,
+        "prettyDuration": "01:05"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "28",
+        "19"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 235.41228
+}

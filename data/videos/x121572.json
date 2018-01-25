@@ -1,0 +1,40 @@
+{
+    "title": "Tropical Island- Eurocash- Tropikalna Wyspa",
+    "description": "Wyjazdy z Eurocash.2009.",
+    "referenceId": null,
+    "date_created": "1381365954",
+    "date_modified": "1418181054",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "121572",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Tropical-Island-Eurocash-Tropikalna-Wyspa",
+    "category": null,
+    "duration": 599,
+    "settings": [],
+    "asset": {
+        "author": "Bogdan Chor\u0105\u017cy",
+        "hdvFlag": 0,
+        "mediaDuration": "599",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-wqoVbiomWA\/mqdefault.jpg",
+        "uploadDate": 1250360645,
+        "videoId": "-wqoVbiomWA",
+        "hookText": "Wyjazdy z Eurocash.2009."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "20",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9.571057
+}

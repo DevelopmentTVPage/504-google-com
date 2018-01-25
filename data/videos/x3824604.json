@@ -1,0 +1,43 @@
+{
+    "title": "Nike Lacrosse",
+    "description": "Play with absolutely positively no regard for your opponents feelings.",
+    "referenceId": null,
+    "date_created": "1424454635",
+    "date_modified": "1424454635",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824604",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Lacrosse",
+    "category": null,
+    "duration": 20,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "YYDRvmgdke8",
+        "hookText": "Play with absolutely positively no regard for your opponents feelings.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/YYDRvmgdke8\/hqdefault.jpg",
+        "mediaDuration": "20",
+        "hdvFlag": 0,
+        "uploadDate": 1266378096,
+        "prettyDuration": "00:20"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "25",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 113.97865
+}

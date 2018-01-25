@@ -1,0 +1,42 @@
+{
+    "title": "It's A Hit",
+    "description": "A music video for We Are Scientists, directed by Akiva Schaffer of The Lonely Island (www.thelonelyisland.com).",
+    "referenceId": null,
+    "date_created": "1396559868",
+    "date_modified": "1418181243",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149754",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "It-s-A-Hit",
+    "category": null,
+    "duration": 216,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "SnmqWbNETbs",
+        "hookText": "A music video for We Are Scientists, directed by Akiva Schaffer of The Lonely Island (www.thelonelyisland.com).",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SnmqWbNETbs\/hqdefault.jpg",
+        "mediaDuration": "216",
+        "hdvFlag": 0,
+        "uploadDate": 1147955188,
+        "prettyDuration": "03:36"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "26",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 229.2928
+}

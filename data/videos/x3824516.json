@@ -1,0 +1,41 @@
+{
+    "title": "Nike+ Training Drill Challenge --\u00a0Hope Solo",
+    "description": "This is the Nike+ Training Drill Challenge. See if you can match or beat Hope Solo in alternating static lunge jumps. Record a video or snap a photo of yours...",
+    "referenceId": null,
+    "date_created": "1424454626",
+    "date_modified": "1424454626",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824516",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Training-Drill-Challenge-Hope-Solo",
+    "category": null,
+    "duration": 44,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "KcNIpzwO0ZU",
+        "hookText": "This is the Nike+ Training Drill Challenge. See if you can match or beat Hope Solo in alternating static lunge jumps. Record a video or snap a photo of yours...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KcNIpzwO0ZU\/maxresdefault.jpg",
+        "mediaDuration": "44",
+        "hdvFlag": 1,
+        "uploadDate": 1341879858,
+        "prettyDuration": "00:44"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 431.02905
+}

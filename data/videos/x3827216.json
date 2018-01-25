@@ -1,0 +1,51 @@
+{
+    "title": "SpicyChorizo.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1427135028",
+    "date_modified": "1427135912",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3827216",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "SpicyChorizo-mp4",
+    "category": null,
+    "duration": 466,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827216\/f894abd7_550b_4371_b0ff_3bffa391b5e7.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827216\/720p_f894abd7_550b_4371_b0ff_3bffa391b5e7.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827216\/480p_f894abd7_550b_4371_b0ff_3bffa391b5e7.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827216\/360p_f894abd7_550b_4371_b0ff_3bffa391b5e7.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/assets\/thumb\/mp4default.jpg",
+        "mediaDuration": "466",
+        "prettyDuration": "07:46"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

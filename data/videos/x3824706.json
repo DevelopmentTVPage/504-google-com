@@ -1,0 +1,41 @@
+{
+    "title": "Fast Is Faster || Nike Football",
+    "description": "Fast is Better, Fast is Crazier, Fast is Blurrier. Fast is Faster.\nhttp:\/\/nikefootball.com",
+    "referenceId": null,
+    "date_created": "1424454644",
+    "date_modified": "1424454644",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824706",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Fast-Is-Faster-Nike-Football",
+    "category": null,
+    "duration": 61,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "dcFHiIb85yY",
+        "hookText": "Fast is Better, Fast is Crazier, Fast is Blurrier. Fast is Faster.\nhttp:\/\/nikefootball.com",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/dcFHiIb85yY\/maxresdefault.jpg",
+        "mediaDuration": "61",
+        "hdvFlag": 1,
+        "uploadDate": 1335494861,
+        "prettyDuration": "01:01"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4922.1865
+}

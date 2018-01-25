@@ -1,0 +1,41 @@
+{
+    "title": "BBC Rise of the Continents 3of4 The Americas",
+    "description": "BBC Rise of the Continents 3of4 The Americas",
+    "referenceId": null,
+    "date_created": "1380070818",
+    "date_modified": "1418181041",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117424",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "BBC-Rise-of-the-Continents-3of4-The-Americas",
+    "category": null,
+    "duration": 3530,
+    "settings": [],
+    "asset": {
+        "author": "Documentary HD",
+        "hdvFlag": 1,
+        "mediaDuration": "3530",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Epw7bxM319M\/mqdefault.jpg",
+        "uploadDate": 1381234263,
+        "videoId": "Epw7bxM319M",
+        "hookText": "BBC Rise of the Continents 3of4 The Americas"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32",
+        "18",
+        "31"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 2141.5789
+}

@@ -1,0 +1,51 @@
+{
+    "title": "SurfTurfCut1.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1427144090",
+    "date_modified": "1427145200",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3827223",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "SurfTurfCut1-mp4",
+    "category": null,
+    "duration": 336,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827223\/0c6f8236_ecda_4bb8_aa85_cb8f41b43c77.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827223\/720p_0c6f8236_ecda_4bb8_aa85_cb8f41b43c77.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827223\/480p_0c6f8236_ecda_4bb8_aa85_cb8f41b43c77.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827223\/360p_0c6f8236_ecda_4bb8_aa85_cb8f41b43c77.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/assets\/thumb\/mp4default.jpg",
+        "mediaDuration": "336",
+        "prettyDuration": "05:36"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Episode 10: Embed Your TVPage",
+    "description": "Embedding a TVPage on your blog or website is easy! Display your collection of videos complete with calls to action on all of your web properties.",
+    "referenceId": null,
+    "date_created": "1402297231",
+    "date_modified": "1418181476",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "171648",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-10-Embed-Your-TVPage",
+    "category": null,
+    "duration": 204,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "g3PVawRrWIw",
+        "hookText": "Embedding a TVPage on your blog or website is easy! Display your collection of videos complete with calls to action on all of your web properties.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/g3PVawRrWIw\/maxresdefault.jpg",
+        "mediaDuration": "204",
+        "hdvFlag": 1,
+        "uploadDate": 1388546905,
+        "prettyDuration": "03:24"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 297.16605
+}

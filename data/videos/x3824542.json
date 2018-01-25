@@ -1,0 +1,43 @@
+{
+    "title": "Introducing NIKE FLYKNIT Technology",
+    "description": "Lighter. Faster. Formfitting. Running revolutionized. This is Nike Flyknit technology. Now available from Nike's Innovation Kitchen.",
+    "referenceId": null,
+    "date_created": "1424454629",
+    "date_modified": "1424454629",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824542",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Introducing-NIKE-FLYKNIT-Technology",
+    "category": null,
+    "duration": 51,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "JUdNeFh2SDo",
+        "hookText": "Lighter. Faster. Formfitting. Running revolutionized. This is Nike Flyknit technology. Now available from Nike's Innovation Kitchen.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JUdNeFh2SDo\/maxresdefault.jpg",
+        "mediaDuration": "51",
+        "hdvFlag": 1,
+        "uploadDate": 1329864652,
+        "prettyDuration": "00:51"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "22",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 150.14035
+}

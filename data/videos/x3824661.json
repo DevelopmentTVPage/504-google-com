@@ -1,0 +1,43 @@
+{
+    "title": "Nike+ Presents: Training with Shawn Johnson",
+    "description": "Shawn Johnson loves Nike+ Training because it keeps her motivated and holds her accountable. Check out Shawn and the Nike Lunar Hyperworkout+ in action.",
+    "referenceId": null,
+    "date_created": "1424454640",
+    "date_modified": "1424454640",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824661",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Presents-Training-with-Shawn-Johnson",
+    "category": null,
+    "duration": 65,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "FhWesd6zL2c",
+        "hookText": "Shawn Johnson loves Nike+ Training because it keeps her motivated and holds her accountable. Check out Shawn and the Nike Lunar Hyperworkout+ in action.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/FhWesd6zL2c\/maxresdefault.jpg",
+        "mediaDuration": "65",
+        "hdvFlag": 1,
+        "uploadDate": 1342652788,
+        "prettyDuration": "01:05"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32",
+        "31",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 254.6413
+}

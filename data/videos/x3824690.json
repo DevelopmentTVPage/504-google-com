@@ -1,0 +1,41 @@
+{
+    "title": "Run This Town",
+    "description": "Sync your runs from Nike+ and hashtag your town. Earn world bragging rights.  \n\nJoin the mission: http:\/\/gonike.me\/runthistown",
+    "referenceId": null,
+    "date_created": "1424454643",
+    "date_modified": "1424454643",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824690",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Run-This-Town",
+    "category": null,
+    "duration": 84,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "80lhembwNxw",
+        "hookText": "Sync your runs from Nike+ and hashtag your town. Earn world bragging rights.  \n\nJoin the mission: http:\/\/gonike.me\/runthistown",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/80lhembwNxw\/maxresdefault.jpg",
+        "mediaDuration": "84",
+        "hdvFlag": 1,
+        "uploadDate": 1343091125,
+        "prettyDuration": "01:24"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 201.83272
+}

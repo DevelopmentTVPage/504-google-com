@@ -1,0 +1,41 @@
+{
+    "title": "Petco Presents: Q&A with Dr. Becker - Summer Routine",
+    "description": "Dr. Marty Becker discusses pets and summer routines.",
+    "referenceId": null,
+    "date_created": "1394588980",
+    "date_modified": "1418181169",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144380",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Petco-Presents-Q-A-with-Dr-Becker-Summer-Routine",
+    "category": null,
+    "duration": 34,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "Sbuk4WSAGjU",
+        "hookText": "Dr. Marty Becker discusses pets and summer routines.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Sbuk4WSAGjU\/sddefault.jpg",
+        "mediaDuration": "34",
+        "hdvFlag": 0,
+        "uploadDate": 1344582109,
+        "prettyDuration": "00:34"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 212.71577
+}

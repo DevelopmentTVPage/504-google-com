@@ -1,0 +1,43 @@
+{
+    "title": "Nike Air Paul Rodriguez",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1424454634",
+    "date_modified": "1424454634",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824599",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Air-Paul-Rodriguez",
+    "category": null,
+    "duration": 68,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "P4ydT1Qc-eE",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/P4ydT1Qc-eE\/hqdefault.jpg",
+        "mediaDuration": "68",
+        "hdvFlag": 0,
+        "uploadDate": 1274152011,
+        "prettyDuration": "01:08"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "7",
+        "34"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 16.153498
+}

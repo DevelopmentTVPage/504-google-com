@@ -1,0 +1,40 @@
+{
+    "title": "just two guys",
+    "description": "the jon's. re-enacting the lonely island skit.",
+    "referenceId": null,
+    "date_created": "1396559871",
+    "date_modified": "1418181244",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149779",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "just-two-guys",
+    "category": null,
+    "duration": 131,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "lIe3MM4HA7Y",
+        "hookText": "the jon's. re-enacting the lonely island skit.",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/lIe3MM4HA7Y\/hqdefault.jpg",
+        "mediaDuration": "131",
+        "hdvFlag": 0,
+        "uploadDate": 1143127674,
+        "prettyDuration": "02:11"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 207.09695
+}

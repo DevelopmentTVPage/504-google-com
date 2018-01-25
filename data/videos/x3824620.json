@@ -1,0 +1,41 @@
+{
+    "title": "Nike presents: Just Do It - PLAY RUSSIAN: Ovechkin",
+    "description": "Winter is our home. It's time to go out and show the world how we #PlayRussian \nhttp:\/\/playrussian.nike.com",
+    "referenceId": null,
+    "date_created": "1424454636",
+    "date_modified": "1424454636",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824620",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-presents-Just-Do-It-PLAY-RUSSIAN-Ovechkin",
+    "category": null,
+    "duration": 31,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "BGhH2Le9sXI",
+        "hookText": "Winter is our home. It's time to go out and show the world how we #PlayRussian \nhttp:\/\/playrussian.nike.com",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BGhH2Le9sXI\/maxresdefault.jpg",
+        "mediaDuration": "31",
+        "hdvFlag": 1,
+        "uploadDate": 1386769268,
+        "prettyDuration": "00:31"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 711.8468
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Video del Proyecto 19 -  Amplificador de audio a base de tra",
+    "description": "Video que consiste en un amplificador en el que se utilizan solamente transistores en diferentes configuraciones a fin de darle ganancia a una se\u00f1al de l\u00ednea...",
+    "referenceId": null,
+    "date_created": "1385165260",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134127",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-del-Proyecto-19-Amplificador-de-audio-a-base-de-tra",
+    "category": null,
+    "duration": 178,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "YN-phPP4r8I",
+        "hookText": "Video que consiste en un amplificador en el que se utilizan solamente transistores en diferentes configuraciones a fin de darle ganancia a una se\u00f1al de l\u00ednea...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/YN-phPP4r8I\/maxresdefault.jpg",
+        "mediaDuration": "178",
+        "hdvFlag": 1,
+        "uploadDate": 1345258676,
+        "prettyDuration": "02:58"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 239.81253
+}

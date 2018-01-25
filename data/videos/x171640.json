@@ -1,0 +1,41 @@
+{
+    "title": "TVPage for Business",
+    "description": "TVPage is a new way to organize and present any collection of videos on your Website, Blog and Facebook page. Import your entire Youtube Channel and create a...",
+    "referenceId": null,
+    "date_created": "1402297230",
+    "date_modified": "1418181476",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "171640",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "TVPage-for-Business",
+    "category": null,
+    "duration": 39,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "du0DdZm2-y8",
+        "hookText": "TVPage is a new way to organize and present any collection of videos on your Website, Blog and Facebook page. Import your entire Youtube Channel and create a...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/du0DdZm2-y8\/maxresdefault.jpg",
+        "mediaDuration": "39",
+        "hdvFlag": 1,
+        "uploadDate": 1369815762,
+        "prettyDuration": "00:39"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 603.87866
+}

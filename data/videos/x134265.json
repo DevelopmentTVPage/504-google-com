@@ -1,0 +1,40 @@
+{
+    "title": "DKNY Summer 2012 Campaign Video",
+    "description": "DKNY Summer 2012 Campaign Video featuring Anne V.",
+    "referenceId": null,
+    "date_created": "1385407751",
+    "date_modified": "1418181114",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134265",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "DKNY-Summer-2012-Campaign-Video",
+    "category": null,
+    "duration": 74,
+    "settings": [],
+    "asset": {
+        "author": "DKNY",
+        "videoId": "d6VUdA5JvDE",
+        "hookText": "DKNY Summer 2012 Campaign Video featuring Anne V.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/d6VUdA5JvDE\/maxresdefault.jpg",
+        "mediaDuration": "74",
+        "hdvFlag": 1,
+        "uploadDate": 1336175690,
+        "prettyDuration": "01:14"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 64.03982
+}

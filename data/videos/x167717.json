@@ -1,0 +1,42 @@
+{
+    "title": "Episode 12: Magento Connect",
+    "description": "Connect all products contained in your Magento store to your TVPage. After you have installed our Magento Connect plugin, instantly connect your products to ...",
+    "referenceId": null,
+    "date_created": "1400633583",
+    "date_modified": "1418181428",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "167717",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-12-Magento-Connect",
+    "category": null,
+    "duration": 307,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "GqIGdt-ZIzU",
+        "hookText": "Connect all products contained in your Magento store to your TVPage. After you have installed our Magento Connect plugin, instantly connect your products to ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/GqIGdt-ZIzU\/maxresdefault.jpg",
+        "mediaDuration": "307",
+        "hdvFlag": 1,
+        "uploadDate": 1389778544,
+        "prettyDuration": "05:07"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "12",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 307.77017
+}

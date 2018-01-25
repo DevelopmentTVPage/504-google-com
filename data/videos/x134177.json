@@ -1,0 +1,42 @@
+{
+    "title": "POD 320",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1385165265",
+    "date_modified": "1418181113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134177",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "POD-320",
+    "category": null,
+    "duration": 78,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "wJhlTg6ZGAw",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wJhlTg6ZGAw\/maxresdefault.jpg",
+        "mediaDuration": "78",
+        "hdvFlag": 1,
+        "uploadDate": 1373498334,
+        "prettyDuration": "01:18"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "18",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 7.4563026
+}

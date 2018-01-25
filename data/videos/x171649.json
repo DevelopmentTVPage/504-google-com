@@ -1,0 +1,42 @@
+{
+    "title": "Episode 11: Your TVPage on Facebook",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1402297232",
+    "date_modified": "1418181476",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "171649",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-11-Your-TVPage-on-Facebook",
+    "category": null,
+    "duration": 222,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "s9gS2LcTEXs",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/s9gS2LcTEXs\/maxresdefault.jpg",
+        "mediaDuration": "222",
+        "hdvFlag": 1,
+        "uploadDate": 1389164136,
+        "prettyDuration": "03:42"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "32",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 96.10528
+}

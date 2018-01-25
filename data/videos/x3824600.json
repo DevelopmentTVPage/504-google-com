@@ -1,0 +1,41 @@
+{
+    "title": "Nike Air Eternal Run",
+    "description": "Caution: May Cause Excessive Performance.",
+    "referenceId": null,
+    "date_created": "1424454634",
+    "date_modified": "1424454634",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824600",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Air-Eternal-Run",
+    "category": null,
+    "duration": 23,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "TTxVH0CDWWY",
+        "hookText": "Caution: May Cause Excessive Performance.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/TTxVH0CDWWY\/hqdefault.jpg",
+        "mediaDuration": "23",
+        "hdvFlag": 0,
+        "uploadDate": 1271480871,
+        "prettyDuration": "00:23"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "28"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 110.1829
+}

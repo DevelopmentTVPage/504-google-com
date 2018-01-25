@@ -1,0 +1,43 @@
+{
+    "title": "Nike+ Presents: Run This Town #NYC",
+    "description": "Let your run do the talking.\n\nSee how these #NYC runners paid tribute to their hometown. Sync your own word or phrase with Nike+, and replay your route at nikeplus.com to see the message spelled out.",
+    "referenceId": null,
+    "date_created": "1424454640",
+    "date_modified": "1424454640",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824657",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Presents-Run-This-Town-NYC",
+    "category": null,
+    "duration": 86,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "wH_d4Iaj0zE",
+        "hookText": "Let your run do the talking.\n\nSee how these #NYC runners paid tribute to their hometown. Sync your own word or phrase with Nike+, and replay your route at nikeplus.com to see the message spelled out.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wH_d4Iaj0zE\/hqdefault.jpg",
+        "mediaDuration": "86",
+        "hdvFlag": 0,
+        "uploadDate": 1344119593,
+        "prettyDuration": "01:26"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "26",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 405.86966
+}

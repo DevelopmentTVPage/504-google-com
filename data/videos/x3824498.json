@@ -1,0 +1,43 @@
+{
+    "title": "This Is Your Nike+ FuelBand",
+    "description": "This is your Nike+ FuelBand. It measures your all-day activity with a simple number called NikeFuel. Working out, working around the house, or working the da...",
+    "referenceId": null,
+    "date_created": "1424454625",
+    "date_modified": "1424454625",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824498",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "This-Is-Your-Nike-FuelBand",
+    "category": null,
+    "duration": 59,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "LC6wptkt2Wk",
+        "hookText": "This is your Nike+ FuelBand. It measures your all-day activity with a simple number called NikeFuel. Working out, working around the house, or working the da...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/LC6wptkt2Wk\/maxresdefault.jpg",
+        "mediaDuration": "59",
+        "hdvFlag": 1,
+        "uploadDate": 1355803100,
+        "prettyDuration": "00:59"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "28",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6183.99
+}

@@ -1,0 +1,42 @@
+{
+    "title": "FURminator Short Hair Dog",
+    "description": "http:\/\/video.petco.com\/?v=15987 Watch this video featuring products available on petco.com.",
+    "referenceId": null,
+    "date_created": "1394589007",
+    "date_modified": "1418181173",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144629",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "FURminator-Short-Hair-Dog",
+    "category": null,
+    "duration": 32,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "EDf-48z_bcw",
+        "hookText": "http:\/\/video.petco.com\/?v=15987 Watch this video featuring products available on petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/EDf-48z_bcw\/hqdefault.jpg",
+        "mediaDuration": "32",
+        "hdvFlag": 0,
+        "uploadDate": 1304595043,
+        "prettyDuration": "00:32"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "25",
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 175.6222
+}

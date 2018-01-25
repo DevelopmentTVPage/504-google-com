@@ -1,0 +1,40 @@
+{
+    "title": "Proyecto 29 - Sensor de humedad para plantas",
+    "description": "Circuito que es activado cuando un electrodo detecta humedad en un recipiente, la se\u00f1al se env\u00eda a un led que prende cuando existe presencia y se apaga cuand...",
+    "referenceId": null,
+    "date_created": "1385165254",
+    "date_modified": "1418181111",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134066",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Proyecto-29-Sensor-de-humedad-para-plantas",
+    "category": null,
+    "duration": 135,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "8cejL0gmFPI",
+        "hookText": "Circuito que es activado cuando un electrodo detecta humedad en un recipiente, la se\u00f1al se env\u00eda a un led que prende cuando existe presencia y se apaga cuand...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8cejL0gmFPI\/maxresdefault.jpg",
+        "mediaDuration": "135",
+        "hdvFlag": 1,
+        "uploadDate": 1383377470,
+        "prettyDuration": "02:15"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 110.30764
+}

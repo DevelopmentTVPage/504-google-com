@@ -1,0 +1,82 @@
+{
+    "title": "TVPage _ OCC PDP Widget1455145529.mp4",
+    "description": "",
+    "referenceId": "ecb42dbbb3f64a089bc1e864ae59c281",
+    "date_created": "1455149044",
+    "date_modified": "1455149459",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "26038307",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "TVPage-OCC-PDP-Widget1455145529-mp4",
+    "category": "",
+    "duration": 2546,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "2546",
+            "width": 1440,
+            "height": 1080
+        },
+        "mediaDuration": "2546",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/26038307\/1080p_f46c9_TVPage___OCC_PDP_Widget1455145529.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1440,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/26038307\/720p_f46c9_TVPage___OCC_PDP_Widget1455145529.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/26038307\/480p_f46c9_TVPage___OCC_PDP_Widget1455145529.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/26038307\/360p_f46c9_TVPage___OCC_PDP_Widget1455145529.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/26038307\/240p_f46c9_TVPage___OCC_PDP_Widget1455145529.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/26038307\/thumb-ecb42dbbb3f64a089bc1e864ae59c281-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/26038307\/dash.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/26038307\/hls.m3u8"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

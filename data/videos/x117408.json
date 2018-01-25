@@ -1,0 +1,41 @@
+{
+    "title": "Ice Worlds",
+    "description": "The Arctic and Antarctic experience the most extreme seasons on Earth. Time-lapse cameras watch a colony of emperor penguins, transforming them into a single organism. The film reveals new science about the dynamics of emperor penguin behaviour. In the no",
+    "referenceId": null,
+    "date_created": "1380069872",
+    "date_modified": "1418181041",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117408",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Ice-Worlds",
+    "category": null,
+    "duration": 2940,
+    "settings": [],
+    "asset": {
+        "author": "TheBBCStore",
+        "hdvFlag": 1,
+        "mediaDuration": "2940",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/IztlwvTLNL8\/mqdefault.jpg",
+        "uploadDate": 1365637520,
+        "videoId": "IztlwvTLNL8",
+        "hookText": "The Arctic and Antarctic experience the most extreme seasons on Earth. Time-lapse cameras watch a colony of emperor penguins, transforming them into a single organism. The film reveals new science about the dynamics of emperor penguin behaviour. In the north, unique aerial images show a polar bear swimming more than 100km. Diving for up to two minutes at a time. The exhausted polar bear later attacks a herd of walrus in a true clash of the titans."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "11",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 428.7778
+}

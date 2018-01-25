@@ -1,0 +1,43 @@
+{
+    "title": "NikeFuel London",
+    "description": "London loves to conquer Km's, scale heights, tackle under floodlights and keep going after hours . To bend, move, dance, twist, run, jump, volley, and break ...",
+    "referenceId": null,
+    "date_created": "1424454623",
+    "date_modified": "1424454623",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824481",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "NikeFuel-London",
+    "category": null,
+    "duration": 76,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "hx-HxtgeUjw",
+        "hookText": "London loves to conquer Km's, scale heights, tackle under floodlights and keep going after hours . To bend, move, dance, twist, run, jump, volley, and break ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/hx-HxtgeUjw\/maxresdefault.jpg",
+        "mediaDuration": "76",
+        "hdvFlag": 1,
+        "uploadDate": 1389071369,
+        "prettyDuration": "01:16"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "28",
+        "25",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 197.82352
+}

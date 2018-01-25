@@ -1,0 +1,42 @@
+{
+    "title": "Nike Cricket: Yards. Just Do It",
+    "description": "From the street to the stadium, the nation of blue regain world dominance after 28 years.",
+    "referenceId": null,
+    "date_created": "1424454634",
+    "date_modified": "1424454634",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824595",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Cricket-Yards-Just-Do-It",
+    "category": null,
+    "duration": 62,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "mvRPz_zoTK4",
+        "hookText": "From the street to the stadium, the nation of blue regain world dominance after 28 years.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mvRPz_zoTK4\/maxresdefault.jpg",
+        "mediaDuration": "62",
+        "hdvFlag": 1,
+        "uploadDate": 1301917346,
+        "prettyDuration": "01:02"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 273.90106
+}

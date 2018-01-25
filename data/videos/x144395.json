@@ -1,0 +1,40 @@
+{
+    "title": "Snowday at Unleashed",
+    "description": "Toward the end of Snowday at Unleashed by Petco, the snow is melting but the dogs are still having a great time!",
+    "referenceId": null,
+    "date_created": "1394588982",
+    "date_modified": "1418181170",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144395",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Snowday-at-Unleashed",
+    "category": null,
+    "duration": 30,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "6Zme5J7MVaI",
+        "hookText": "Toward the end of Snowday at Unleashed by Petco, the snow is melting but the dogs are still having a great time!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6Zme5J7MVaI\/hqdefault.jpg",
+        "mediaDuration": "30",
+        "hdvFlag": 0,
+        "uploadDate": 1342926035,
+        "prettyDuration": "00:30"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 383.07544
+}

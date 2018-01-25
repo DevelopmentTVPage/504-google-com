@@ -1,0 +1,40 @@
+{
+    "title": "Video Tutorial que muestra la configuraci\u00f3n del Control Remo",
+    "description": "Vide Tutorial para programar el control remoto Steren RM-4. http:\/\/www.steren.com.mx\/catalogo\/prod.asp?p=3213.",
+    "referenceId": null,
+    "date_created": "1385165264",
+    "date_modified": "1418181113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134166",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-Tutorial-que-muestra-la-configuraci\u00f3n-del-Control-Remo",
+    "category": null,
+    "duration": 124,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "8ZZPhUts1F0",
+        "hookText": "Vide Tutorial para programar el control remoto Steren RM-4. http:\/\/www.steren.com.mx\/catalogo\/prod.asp?p=3213.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8ZZPhUts1F0\/maxresdefault.jpg",
+        "mediaDuration": "124",
+        "hdvFlag": 1,
+        "uploadDate": 1314410546,
+        "prettyDuration": "02:04"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 247.62018
+}

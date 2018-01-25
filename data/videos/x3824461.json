@@ -1,0 +1,41 @@
+{
+    "title": "The Nike ZVEZDOCHKA: The Future Returns",
+    "description": "A design ahead of its time is back ten years later for a limited edition release.",
+    "referenceId": null,
+    "date_created": "1424454621",
+    "date_modified": "1424454621",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824461",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "The-Nike-ZVEZDOCHKA-The-Future-Returns",
+    "category": null,
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "YcUIeG-GaeA",
+        "hookText": "A design ahead of its time is back ten years later for a limited edition release.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/YcUIeG-GaeA\/sddefault.jpg",
+        "mediaDuration": "16",
+        "hdvFlag": 0,
+        "uploadDate": 1419344112,
+        "prettyDuration": "00:16"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 326.3465
+}

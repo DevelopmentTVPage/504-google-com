@@ -1,0 +1,41 @@
+{
+    "title": "Petco Doggiepalooza \"New Puppy\" Music Video",
+    "description": "Bringing a new puppy into your home? We've got you covered. Visit http:\/\/petco.com\/doggiepalooza",
+    "referenceId": null,
+    "date_created": "1394757169",
+    "date_modified": "1418181178",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "145109",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Petco-Doggiepalooza-New-Puppy-Music-Video",
+    "category": null,
+    "duration": 61,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "hdvFlag": 1,
+        "mediaDuration": "61",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rWBVcsbJU3g\/maxresdefault.jpg",
+        "uploadDate": 1356537680,
+        "videoId": "rWBVcsbJU3g",
+        "hookText": "Bringing a new puppy into your home? We've got you covered. Visit http:\/\/petco.com\/doggiepalooza"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "28",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 334.21637
+}

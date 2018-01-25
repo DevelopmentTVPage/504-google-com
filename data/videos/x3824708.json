@@ -1,0 +1,43 @@
+{
+    "title": "Vapor Talon Elite",
+    "description": "The Vapor Talon Elite is the future. Hyperfuse and traction on-demand are its weapons. Michael Irvin is its soul and its voice. Speed is what it craves. The end zone is where it belongs.",
+    "referenceId": null,
+    "date_created": "1424454644",
+    "date_modified": "1424454644",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824708",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Vapor-Talon-Elite",
+    "category": null,
+    "duration": 67,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "b0a0WhU_iaE",
+        "hookText": "The Vapor Talon Elite is the future. Hyperfuse and traction on-demand are its weapons. Michael Irvin is its soul and its voice. Speed is what it craves. The end zone is where it belongs.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/b0a0WhU_iaE\/maxresdefault.jpg",
+        "mediaDuration": "67",
+        "hdvFlag": 1,
+        "uploadDate": 1328341608,
+        "prettyDuration": "01:07"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "12",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 305.26382
+}

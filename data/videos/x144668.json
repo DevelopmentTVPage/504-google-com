@@ -1,0 +1,40 @@
+{
+    "title": "KONG Dog Toy",
+    "description": "http:\/\/video.petco.com\/?v=13742 Featured in the video: [1] KONG Dog Toy http:\/\/direct-url.com\/g1z.",
+    "referenceId": null,
+    "date_created": "1394589011",
+    "date_modified": "1418181173",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144668",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "KONG-Dog-Toy",
+    "category": null,
+    "duration": 137,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "rGuDmdSUBWI",
+        "hookText": "http:\/\/video.petco.com\/?v=13742 Featured in the video: [1] KONG Dog Toy http:\/\/direct-url.com\/g1z.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rGuDmdSUBWI\/sddefault.jpg",
+        "mediaDuration": "137",
+        "hdvFlag": 0,
+        "uploadDate": 1301638491,
+        "prettyDuration": "02:17"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 279.8868
+}

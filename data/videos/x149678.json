@@ -1,0 +1,42 @@
+{
+    "title": "YOLO - Live! (feat. Jimmy Fallon and The Roots)",
+    "description": "The Dudes performed YOLO on Late Night With Jimmy Fallon last night! Big thank you to the LNJF team for putting it all together. YOLO can be found on THE WAC...",
+    "referenceId": null,
+    "date_created": "1396559861",
+    "date_modified": "1418181242",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149678",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "YOLO-Live-feat-Jimmy-Fallon-and-The-Roots",
+    "category": null,
+    "duration": 200,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "XzGeUsvg3BM",
+        "hookText": "The Dudes performed YOLO on Late Night With Jimmy Fallon last night! Big thank you to the LNJF team for putting it all together. YOLO can be found on THE WAC...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/XzGeUsvg3BM\/maxresdefault.jpg",
+        "mediaDuration": "200",
+        "hdvFlag": 1,
+        "uploadDate": 1374869969,
+        "prettyDuration": "03:20"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "20",
+        "18",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 452.41904
+}

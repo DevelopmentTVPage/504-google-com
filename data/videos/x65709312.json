@@ -1,0 +1,76 @@
+{
+    "title": "4.mp4",
+    "description": "",
+    "referenceId": "12a4e93b2d7b2d3266e08f1fa01a4c01",
+    "date_created": "1462581661",
+    "date_modified": "1462581764",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "65709312",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "4-mp4",
+    "category": "",
+    "duration": "39",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "39",
+            "width": 800,
+            "height": 600
+        },
+        "mediaDuration": "39",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65709312\/e1fd7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 600
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65709312\/e1fd7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65709312\/e1fd7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65709312\/e1fd7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65709312\/e1fd7\/thumb-12a4e93b2d7b2d3266e08f1fa01a4c01-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65709312\/e1fd7\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65709312\/e1fd7\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

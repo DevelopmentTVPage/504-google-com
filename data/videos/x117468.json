@@ -1,0 +1,39 @@
+{
+    "title": "Meet the Underwater Torpedo Bird",
+    "description": "Murres may be clumsy in the air, but these tiny arctic birds move like torpedoes underwater.",
+    "referenceId": null,
+    "date_created": "1380119625",
+    "date_modified": "1418181042",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117468",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Meet-the-Underwater-Torpedo-Bird",
+    "category": null,
+    "duration": 80,
+    "settings": [],
+    "asset": {
+        "author": "NationalGeographic",
+        "hdvFlag": 0,
+        "mediaDuration": "80",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nbnJsc-GPaA\/mqdefault.jpg",
+        "uploadDate": 1379524818,
+        "videoId": "nbnJsc-GPaA",
+        "hookText": "Murres may be clumsy in the air, but these tiny arctic birds move like torpedoes underwater."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 333.0195
+}

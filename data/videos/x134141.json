@@ -1,0 +1,41 @@
+{
+    "title": "Video que muestra la ayuda que brinda Steren con sus product",
+    "description": "Video que muestra la manera en que podr\u00e1s disfrutar de tu m\u00fasica preferida, ya que en el mundo hay tantos g\u00e9neros musicales como reproductores de MP3, as\u00ed qu...",
+    "referenceId": null,
+    "date_created": "1385165261",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134141",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-que-muestra-la-ayuda-que-brinda-Steren-con-sus-product",
+    "category": null,
+    "duration": 74,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "JLfKH21fGiI",
+        "hookText": "Video que muestra la manera en que podr\u00e1s disfrutar de tu m\u00fasica preferida, ya que en el mundo hay tantos g\u00e9neros musicales como reproductores de MP3, as\u00ed qu...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JLfKH21fGiI\/sddefault.jpg",
+        "mediaDuration": "74",
+        "hdvFlag": 0,
+        "uploadDate": 1337318365,
+        "prettyDuration": "01:14"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 165.33327
+}

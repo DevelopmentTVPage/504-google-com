@@ -1,0 +1,78 @@
+{
+    "title": "rbsp_launch_720p.mp4",
+    "description": "rbst",
+    "referenceId": "c7d72a4fc197051fc73618d546c32dcb",
+    "date_created": "1464290708",
+    "date_modified": "1464290928",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "65926737",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "rbsp-launch-720p-mp4",
+    "category": "",
+    "duration": "126",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "126",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "126",
+        "prettyDuration": "00:02:06",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65926737\/d5510\/thumb-c7d72a4fc197051fc73618d546c32dcb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65926737\/d5510\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65926737\/d5510\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65926737\/d5510\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65926737\/d5510\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65926737\/d5510\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/65926737\/d5510\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "31",
+    "CVV_VI": null,
+    "engagement_score": "1",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

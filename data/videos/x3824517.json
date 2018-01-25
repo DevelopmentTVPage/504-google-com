@@ -1,0 +1,41 @@
+{
+    "title": "Nike+ Presents: L.A. Live",
+    "description": "Follow the journey of 2 LA ballers and their discovery of Nike's revolutionary footwear that syncs performance stats from their feet to their iphone. Embedde...",
+    "referenceId": null,
+    "date_created": "1424454627",
+    "date_modified": "1424454627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824517",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Presents-L-A-Live",
+    "category": null,
+    "duration": 136,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "aihnaXAZ8VA",
+        "hookText": "Follow the journey of 2 LA ballers and their discovery of Nike's revolutionary footwear that syncs performance stats from their feet to their iphone. Embedde...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/aihnaXAZ8VA\/maxresdefault.jpg",
+        "mediaDuration": "136",
+        "hdvFlag": 1,
+        "uploadDate": 1341110486,
+        "prettyDuration": "02:16"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 325.81076
+}

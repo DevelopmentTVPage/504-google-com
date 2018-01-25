@@ -1,0 +1,42 @@
+{
+    "title": "Pals Rewards Program",
+    "description": "Learn about the new Petco Pals Rewards program and how you can earn 5% back on everything you buy! palsrewards.com.",
+    "referenceId": null,
+    "date_created": "1394588994",
+    "date_modified": "1418181171",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144508",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Pals-Rewards-Program",
+    "category": null,
+    "duration": 79,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "x-E7ykPwdkE",
+        "hookText": "Learn about the new Petco Pals Rewards program and how you can earn 5% back on everything you buy! palsrewards.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/x-E7ykPwdkE\/sddefault.jpg",
+        "mediaDuration": "79",
+        "hdvFlag": 0,
+        "uploadDate": 1321424470,
+        "prettyDuration": "01:19"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "11",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 368.81546
+}

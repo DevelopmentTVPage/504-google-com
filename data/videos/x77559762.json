@@ -1,0 +1,42 @@
+{
+    "title": "Skydive San Diego: Birthday Jump",
+    "description": "Crossing one off the Bucket List I decided to go Skydiving for my Birthday. It was the best experience of my life and I can't wait to go again.",
+    "referenceId": "HfFX4BnyfvU",
+    "date_created": "1477613237",
+    "date_modified": "1477613237",
+    "tags": null,
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "77559762",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Skydive-San-Diego-Birthday-Jump",
+    "category": null,
+    "duration": 243,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Christopher Rodgers",
+        "hdvFlag": 0,
+        "description": "Crossing one off the Bucket List I decided to go Skydiving for my Birthday. It was the best experience of my life and I can't wait to go again.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HfFX4BnyfvU\/hqdefault.jpg",
+        "videoId": "HfFX4BnyfvU",
+        "mediaDuration": 243,
+        "prettyDuration": "00:04:03"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 499.29883
+}

@@ -1,0 +1,42 @@
+{
+    "title": "DKNY Summer 2013 Campaign Video",
+    "description": "Check out our Summer 2013 video.",
+    "referenceId": null,
+    "date_created": "1385415447",
+    "date_modified": "1418181115",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134333",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "DKNY-Summer-2013-Campaign-Video",
+    "category": null,
+    "duration": 181,
+    "settings": [],
+    "asset": {
+        "author": "DKNY",
+        "videoId": "lXR9wQjLCOg",
+        "hookText": "Check out our Summer 2013 video.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/lXR9wQjLCOg\/maxresdefault.jpg",
+        "mediaDuration": "181",
+        "hdvFlag": 1,
+        "uploadDate": 1368224891,
+        "prettyDuration": "03:01"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "27",
+        "9",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 120.81854
+}

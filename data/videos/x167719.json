@@ -1,0 +1,40 @@
+{
+    "title": "Episode 1: What Is a TVPage?",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1400633583",
+    "date_modified": "1418181428",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "167719",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-1-What-Is-a-TVPage",
+    "category": null,
+    "duration": 280,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "1iL6v12LdW0",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1iL6v12LdW0\/maxresdefault.jpg",
+        "mediaDuration": "280",
+        "hdvFlag": 1,
+        "uploadDate": 1382727531,
+        "prettyDuration": "04:40"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 393.87085
+}

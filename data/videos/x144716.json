@@ -1,0 +1,40 @@
+{
+    "title": "Posh Paws",
+    "description": "Posh Paws is a new pedicure service now available at your local Petco Grooming Salon. http:\/\/www.petco.com",
+    "referenceId": null,
+    "date_created": "1394589017",
+    "date_modified": "1418181174",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144716",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Posh-Paws",
+    "category": null,
+    "duration": 43,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "aKlfGbSs8_w",
+        "hookText": "Posh Paws is a new pedicure service now available at your local Petco Grooming Salon. http:\/\/www.petco.com",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/aKlfGbSs8_w\/sddefault.jpg",
+        "mediaDuration": "43",
+        "hdvFlag": 0,
+        "uploadDate": 1314834730,
+        "prettyDuration": "00:43"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 271.05066
+}

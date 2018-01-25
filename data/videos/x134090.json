@@ -1,0 +1,40 @@
+{
+    "title": "Video del Proyecto 23 - Contador por medio de sensor infrarr",
+    "description": "Video donde te mostramos un circuito que lleva a cabo el conteo de un objeto que pasa entre un sensor infrarrojo y un fototransistor y env\u00eda un pulso a un co...",
+    "referenceId": null,
+    "date_created": "1385165256",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134090",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-del-Proyecto-23-Contador-por-medio-de-sensor-infrarr",
+    "category": null,
+    "duration": 134,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "z5GvYLrV4Tc",
+        "hookText": "Video donde te mostramos un circuito que lleva a cabo el conteo de un objeto que pasa entre un sensor infrarrojo y un fototransistor y env\u00eda un pulso a un co...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/z5GvYLrV4Tc\/maxresdefault.jpg",
+        "mediaDuration": "134",
+        "hdvFlag": 1,
+        "uploadDate": 1366179131,
+        "prettyDuration": "02:14"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 428.3979
+}

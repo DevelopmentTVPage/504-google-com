@@ -1,0 +1,41 @@
+{
+    "title": "Nike ACG Returns",
+    "description": "On Dec. 18, Nike ACG returns to define sport utility for the city.",
+    "referenceId": null,
+    "date_created": "1424454621",
+    "date_modified": "1424454621",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824462",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-ACG-Returns",
+    "category": null,
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "vX6dYXlR4DE",
+        "hookText": "On Dec. 18, Nike ACG returns to define sport utility for the city.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vX6dYXlR4DE\/maxresdefault.jpg",
+        "mediaDuration": "16",
+        "hdvFlag": 1,
+        "uploadDate": 1418169398,
+        "prettyDuration": "00:16"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 222.6125
+}

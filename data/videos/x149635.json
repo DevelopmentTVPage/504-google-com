@@ -1,0 +1,41 @@
+{
+    "title": "The Great Escape",
+    "description": "A music video for We Are Scientists, directed by Akiva Schaffer of The Lonely Island (www.thelonelyisland.com).",
+    "referenceId": null,
+    "date_created": "1396559762",
+    "date_modified": "1418181242",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149635",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "The-Great-Escape",
+    "category": null,
+    "duration": 210,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "21-TCoFRgy0",
+        "hookText": "A music video for We Are Scientists, directed by Akiva Schaffer of The Lonely Island (www.thelonelyisland.com).",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/21-TCoFRgy0\/hqdefault.jpg",
+        "mediaDuration": "210",
+        "hdvFlag": 0,
+        "uploadDate": 1138849646,
+        "prettyDuration": "03:30"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 295.74805
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Proyecto 28 - Timbre activado por tacto",
+    "description": "En \u00e9sta ocasi\u00f3n realizaremos un circuito que funciona cuando tocamos una parte de material met\u00e1lico, que se activa enviado una se\u00f1al a un buzzer y a un foco ...",
+    "referenceId": null,
+    "date_created": "1385165254",
+    "date_modified": "1418181111",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134069",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Proyecto-28-Timbre-activado-por-tacto",
+    "category": null,
+    "duration": 129,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "_kRX88k7LVU",
+        "hookText": "En \u00e9sta ocasi\u00f3n realizaremos un circuito que funciona cuando tocamos una parte de material met\u00e1lico, que se activa enviado una se\u00f1al a un buzzer y a un foco ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_kRX88k7LVU\/maxresdefault.jpg",
+        "mediaDuration": "129",
+        "hdvFlag": 1,
+        "uploadDate": 1383028733,
+        "prettyDuration": "02:09"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 218.5604
+}

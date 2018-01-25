@@ -1,0 +1,40 @@
+{
+    "title": "Next Steps in Wild Birding",
+    "description": "http:\/\/video.petco.com\/?v=16999 Watch this video featuring products available on petco.com.",
+    "referenceId": null,
+    "date_created": "1394589003",
+    "date_modified": "1418181172",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144594",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Next-Steps-in-Wild-Birding",
+    "category": null,
+    "duration": 70,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "Y-8ySfLTf3M",
+        "hookText": "http:\/\/video.petco.com\/?v=16999 Watch this video featuring products available on petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Y-8ySfLTf3M\/maxresdefault.jpg",
+        "mediaDuration": "70",
+        "hdvFlag": 1,
+        "uploadDate": 1308876648,
+        "prettyDuration": "01:10"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 263.90195
+}

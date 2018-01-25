@@ -1,0 +1,93 @@
+{
+    "title": "Mutant Nation Case Study",
+    "description": ".",
+    "referenceId": "0a9f850b22e8cdde81d1d30f667ee6d3",
+    "date_created": "1449627443",
+    "date_modified": "1453142842",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "11387660",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Mutant-Nation-Case-Study",
+    "category": "",
+    "duration": 224,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "224",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "224",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/11387660\/thumb-0a9f850b22e8cdde81d1d30f667ee6d3-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/11387660\/dash.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/11387660\/hls.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/11387660\/1080p_e724f_Mutant_Case_Study_1.2.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/11387660\/720p_e724f_Mutant_Case_Study_1.2.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/11387660\/480p_e724f_Mutant_Case_Study_1.2.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/11387660\/360p_e724f_Mutant_Case_Study_1.2.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/11387660\/240p_e724f_Mutant_Case_Study_1.2.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/11387660\/144p_e724f_Mutant_Case_Study_1.2.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "VV_VI": "267",
+    "CVV_VI": null,
+    "engagement_score": "15",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": [
+        "20",
+        "19",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 12.267279
+}

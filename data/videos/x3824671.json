@@ -1,0 +1,41 @@
+{
+    "title": "More Stable From The Core - Nike RZN",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1424454641",
+    "date_modified": "1424454641",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824671",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "More-Stable-From-The-Core-Nike-RZN",
+    "category": null,
+    "duration": 60,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "sxT7mPU2aPc",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/sxT7mPU2aPc\/maxresdefault.jpg",
+        "mediaDuration": "60",
+        "hdvFlag": 1,
+        "uploadDate": 1393659411,
+        "prettyDuration": "01:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 279.4506
+}

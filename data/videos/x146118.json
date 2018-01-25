@@ -1,0 +1,40 @@
+{
+    "title": "Tournament Special Trophy Award",
+    "description": "Natural Balance wins special trophy award at the 2011 Rose Parade - watch the news break. http:\/\/www.petco.com.",
+    "referenceId": null,
+    "date_created": "1394818942",
+    "date_modified": "1418181189",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "146118",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Tournament-Special-Trophy-Award",
+    "category": null,
+    "duration": 32,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "jCfuQbmGJuQ",
+        "hookText": "Natural Balance wins special trophy award at the 2011 Rose Parade - watch the news break. http:\/\/www.petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/jCfuQbmGJuQ\/maxresdefault.jpg",
+        "mediaDuration": "32",
+        "hdvFlag": 1,
+        "uploadDate": 1293947688,
+        "prettyDuration": "00:32"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "8"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 195.13364
+}

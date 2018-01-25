@@ -1,0 +1,41 @@
+{
+    "title": "Comercial Steren - Las Gafas",
+    "description": "Video de entretenimiento. Steren, soluciones en casi todo... http:\/\/www.steren.com.mx\/",
+    "referenceId": null,
+    "date_created": "1385165259",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134116",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Comercial-Steren-Las-Gafas",
+    "category": null,
+    "duration": 31,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "k5tF_vWRWKA",
+        "hookText": "Video de entretenimiento. Steren, soluciones en casi todo... http:\/\/www.steren.com.mx\/",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/k5tF_vWRWKA\/hqdefault.jpg",
+        "mediaDuration": "31",
+        "hdvFlag": 0,
+        "uploadDate": 1347571188,
+        "prettyDuration": "00:31"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "22",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 19.870571
+}

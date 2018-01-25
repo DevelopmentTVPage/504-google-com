@@ -1,0 +1,40 @@
+{
+    "title": "Camouflaged Fish Sneak Attack",
+    "description": "The sargassum fish has evolved to look exactly like floating sargassum weed, helping it ambush smaller fish with deadly ease.",
+    "referenceId": null,
+    "date_created": "1380068788",
+    "date_modified": "1418181041",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117400",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Camouflaged-Fish-Sneak-Attack",
+    "category": null,
+    "duration": 103,
+    "settings": [],
+    "asset": {
+        "author": "NationalGeographic",
+        "hdvFlag": 0,
+        "mediaDuration": "103",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Wb-j6-rzmc0\/mqdefault.jpg",
+        "uploadDate": 1381092227,
+        "videoId": "Wb-j6-rzmc0",
+        "hookText": "The sargassum fish has evolved to look exactly like floating sargassum weed, helping it ambush smaller fish with deadly ease."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 137.39525
+}

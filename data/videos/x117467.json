@@ -1,0 +1,40 @@
+{
+    "title": "Wild Rhinos",
+    "description": "Rhinoceros have long suffered at the hand of humans. Now a small, dedicated group tries to undo some of the damage.",
+    "referenceId": null,
+    "date_created": "1380119613",
+    "date_modified": "1418181042",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117467",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Wild-Rhinos",
+    "category": null,
+    "duration": 200,
+    "settings": [],
+    "asset": {
+        "author": "NationalGeographic",
+        "hdvFlag": 0,
+        "mediaDuration": "200",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/R02QrS2aCDM\/mqdefault.jpg",
+        "uploadDate": 1236899382,
+        "videoId": "R02QrS2aCDM",
+        "hookText": "Rhinoceros have long suffered at the hand of humans. Now a small, dedicated group tries to undo some of the damage."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 270.09033
+}

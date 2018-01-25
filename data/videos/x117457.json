@@ -1,0 +1,41 @@
+{
+    "title": "Exploring Oceans: Great Barrier Reef",
+    "description": "The largest living structure, the Great Barrier Reef spans more than 1,200 miles (2,000 km) of islands and submerged reefs.",
+    "referenceId": null,
+    "date_created": "1380119511",
+    "date_modified": "1418181042",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117457",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Exploring-Oceans-Great-Barrier-Reef",
+    "category": null,
+    "duration": 247,
+    "settings": [],
+    "asset": {
+        "author": "NationalGeographic",
+        "hdvFlag": 0,
+        "mediaDuration": "247",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wbNeIn3vVKM\/mqdefault.jpg",
+        "uploadDate": 1238425456,
+        "videoId": "wbNeIn3vVKM",
+        "hookText": "The largest living structure, the Great Barrier Reef spans more than 1,200 miles (2,000 km) of islands and submerged reefs."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "18",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 256.2349
+}

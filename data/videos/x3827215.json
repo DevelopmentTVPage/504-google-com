@@ -1,0 +1,51 @@
+{
+    "title": "GreenChili.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1427133819",
+    "date_modified": "1427134724",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3827215",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "GreenChili-mp4",
+    "category": null,
+    "duration": 478,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827215\/bdf52f77_57d9_4755_a064_eb102ca9731e.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827215\/720p_bdf52f77_57d9_4755_a064_eb102ca9731e.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827215\/480p_bdf52f77_57d9_4755_a064_eb102ca9731e.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3827215\/360p_bdf52f77_57d9_4755_a064_eb102ca9731e.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/assets\/thumb\/mp4default.jpg",
+        "mediaDuration": "478",
+        "prettyDuration": "07:58"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

@@ -1,0 +1,40 @@
+{
+    "title": "MacGruber this Friday!",
+    "description": "The movie is a hard 'R' and really funny. I'm super proud of it and I hope you guys like it as much as I do. - jorm.",
+    "referenceId": null,
+    "date_created": "1396559758",
+    "date_modified": "1418181241",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149600",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "MacGruber-this-Friday",
+    "category": null,
+    "duration": 54,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "xgSOMyBnW9c",
+        "hookText": "The movie is a hard 'R' and really funny. I'm super proud of it and I hope you guys like it as much as I do. - jorm.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xgSOMyBnW9c\/maxresdefault.jpg",
+        "mediaDuration": "54",
+        "hdvFlag": 1,
+        "uploadDate": 1274277279,
+        "prettyDuration": "00:54"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 413.9431
+}

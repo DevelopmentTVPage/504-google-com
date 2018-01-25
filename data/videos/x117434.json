@@ -1,0 +1,39 @@
+{
+    "title": "Earth's Frozen Frontiers",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1380071406",
+    "date_modified": "1418181041",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117434",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Earth-s-Frozen-Frontiers",
+    "category": null,
+    "duration": 571,
+    "settings": [],
+    "asset": {
+        "author": "BestSpaceVideos",
+        "hdvFlag": 1,
+        "mediaDuration": "571",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/btAiX3fw1vY\/mqdefault.jpg",
+        "uploadDate": 1375232503,
+        "videoId": "btAiX3fw1vY",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 10.3584175
+}

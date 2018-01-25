@@ -1,0 +1,39 @@
+{
+    "title": "sample_mpeg4 2.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410814591",
+    "date_modified": "1418181986",
+    "tags": "",
+    "sourceId": "5",
+    "VIDEO_LENGTH": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764879",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "sample-mpeg4-2-mp4",
+    "category": null,
+    "duration": null,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/do0631budpzeh.cloudfront.net\/live\/videos\/521\/9afcd90c_620d_431f_e4bb_5362f1410f40.mp4"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/assets\/thumb\/mp4default.jpg",
+        "mediaDuration": "0",
+        "prettyDuration": "00:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Dog Digs Crate ABO Gear",
+    "description": "http:\/\/video.petco.com\/?v=15989 Watch this video featuring products available on petco.com.",
+    "referenceId": null,
+    "date_created": "1394589007",
+    "date_modified": "1418181173",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144632",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Dog-Digs-Crate-ABO-Gear",
+    "category": null,
+    "duration": 45,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "xGnAe27OSOo",
+        "hookText": "http:\/\/video.petco.com\/?v=15989 Watch this video featuring products available on petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xGnAe27OSOo\/maxresdefault.jpg",
+        "mediaDuration": "45",
+        "hdvFlag": 1,
+        "uploadDate": 1304593626,
+        "prettyDuration": "00:45"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "25",
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 171.21176
+}

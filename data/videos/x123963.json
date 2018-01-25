@@ -1,0 +1,41 @@
+{
+    "title": "StreetPeek: Outerwear",
+    "description": "Join Fashion Pulse Daily on the busy streets of downtown Manhattan where she's talking fashionable upcoming winter outerwear trends and where to get them! Ju...",
+    "referenceId": null,
+    "date_created": "1381779337",
+    "date_modified": "1418181066",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "123963",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "StreetPeek-Outerwear",
+    "category": null,
+    "duration": 96,
+    "settings": [],
+    "asset": {
+        "author": "StyleCoalition",
+        "videoId": "CzeIAi2K2Co",
+        "hookText": "Join Fashion Pulse Daily on the busy streets of downtown Manhattan where she's talking fashionable upcoming winter outerwear trends and where to get them! Ju...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CzeIAi2K2Co\/mqdefault.jpg",
+        "mediaDuration": "96",
+        "hdvFlag": 1,
+        "uploadDate": 1357349413,
+        "prettyDuration": "01:36"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 242.77495
+}

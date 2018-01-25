@@ -1,0 +1,42 @@
+{
+    "title": "Introducing Nike+ Basketball",
+    "description": "How do you measure greatness? NikeBasketball introduces technology that will enable you to see your game, in order to improve, like never before. Learn more ...",
+    "referenceId": null,
+    "date_created": "1424454629",
+    "date_modified": "1432853589",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824544",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Introducing-Nike-Basketball",
+    "category": null,
+    "duration": 47,
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "SCJNPd-HYiM",
+        "hookText": "How do you measure greatness? NikeBasketball introduces technology that will enable you to see your game, in order to improve, like never before. Learn more ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SCJNPd-HYiM\/maxresdefault.jpg",
+        "mediaDuration": "47",
+        "hdvFlag": 1,
+        "uploadDate": 1329788446,
+        "prettyDuration": "00:47"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 600.3569
+}

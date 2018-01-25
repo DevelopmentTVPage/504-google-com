@@ -1,0 +1,41 @@
+{
+    "title": "Nigel Sylvester Shouts Out @karatekickz23 #makeitcount",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1424454630",
+    "date_modified": "1424454630",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824560",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nigel-Sylvester-Shouts-Out-karatekickz23-makeitcount",
+    "category": null,
+    "duration": 13,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "b0zzmXQGBYU",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/b0zzmXQGBYU\/maxresdefault.jpg",
+        "mediaDuration": "13",
+        "hdvFlag": 1,
+        "uploadDate": 1325329645,
+        "prettyDuration": "00:13"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 174.64818
+}

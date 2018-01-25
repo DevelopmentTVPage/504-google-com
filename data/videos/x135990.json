@@ -1,0 +1,41 @@
+{
+    "title": "TVPage in 60 Seconds",
+    "description": "Create and manage your video collections with TVPage! TVPage is a free service that lets you import any number of videos into a Customizable TVPage that you ...",
+    "referenceId": null,
+    "date_created": "1386797327",
+    "date_modified": "1418181128",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135990",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "TVPage-in-60-Seconds",
+    "category": null,
+    "duration": 65,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "ELwI1nrxRPE",
+        "hookText": "Create and manage your video collections with TVPage! TVPage is a free service that lets you import any number of videos into a Customizable TVPage that you ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ELwI1nrxRPE\/maxresdefault.jpg",
+        "mediaDuration": "65",
+        "hdvFlag": 1,
+        "uploadDate": 1367560201,
+        "prettyDuration": "01:05"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 446.44983
+}

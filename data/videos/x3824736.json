@@ -1,0 +1,42 @@
+{
+    "title": "No Cup Is Safe",
+    "description": "When Tiger Woods and Rory McIlroy hit the range, no cup is safe.",
+    "referenceId": null,
+    "date_created": "1424454639",
+    "date_modified": "1424454701",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824736",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "No-Cup-Is-Safe",
+    "category": null,
+    "duration": 63,
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "2NCDYjHtEcU",
+        "hookText": "When Tiger Woods and Rory McIlroy hit the range, no cup is safe.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2NCDYjHtEcU\/maxresdefault.jpg",
+        "mediaDuration": "63",
+        "hdvFlag": 1,
+        "uploadDate": 1358205259,
+        "prettyDuration": "01:03"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "3"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6306.308
+}

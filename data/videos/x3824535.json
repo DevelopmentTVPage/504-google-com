@@ -1,0 +1,43 @@
+{
+    "title": "SXSW #COUNTS",
+    "description": "At SXSW it all #counts, and we're just getting started.",
+    "referenceId": null,
+    "date_created": "1424454628",
+    "date_modified": "1424454628",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824535",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "SXSW-COUNTS",
+    "category": null,
+    "duration": 92,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "Dph6E0ZpXLY",
+        "hookText": "At SXSW it all #counts, and we're just getting started.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Dph6E0ZpXLY\/hqdefault.jpg",
+        "mediaDuration": "92",
+        "hdvFlag": 0,
+        "uploadDate": 1331763564,
+        "prettyDuration": "01:32"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "34",
+        "11",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 97.61649
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Video que muestra el funcionamiento del Humidificador Steren",
+    "description": "Video donde te mostramos el funcionamiento del Humidificador Steren. Ideal para climas secos ya que te ayudar\u00e1 a mejorar la humedad del espacio en donde te e...",
+    "referenceId": null,
+    "date_created": "1385165258",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134105",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-que-muestra-el-funcionamiento-del-Humidificador-Steren",
+    "category": null,
+    "duration": 131,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "WoUccIClKIs",
+        "hookText": "Video donde te mostramos el funcionamiento del Humidificador Steren. Ideal para climas secos ya que te ayudar\u00e1 a mejorar la humedad del espacio en donde te e...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WoUccIClKIs\/maxresdefault.jpg",
+        "mediaDuration": "131",
+        "hdvFlag": 1,
+        "uploadDate": 1358322003,
+        "prettyDuration": "02:11"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 118.82596
+}

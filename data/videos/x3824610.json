@@ -1,0 +1,43 @@
+{
+    "title": "Classic \"I'm Better Than I've Ever Been\"",
+    "description": "DJ Premier remix featuring Kanye West, Rakim, Nas, and KRS-ONE in tribute to the AF1.",
+    "referenceId": null,
+    "date_created": "1424454635",
+    "date_modified": "1424454635",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824610",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Classic-I-m-Better-Than-I-ve-Ever-Been",
+    "category": null,
+    "duration": 322,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "HZeOwlVqWMg",
+        "hookText": "DJ Premier remix featuring Kanye West, Rakim, Nas, and KRS-ONE in tribute to the AF1.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HZeOwlVqWMg\/hqdefault.jpg",
+        "mediaDuration": "322",
+        "hdvFlag": 0,
+        "uploadDate": 1174833025,
+        "prettyDuration": "05:22"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "20",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 357.12924
+}

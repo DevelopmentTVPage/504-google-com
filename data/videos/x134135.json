@@ -1,0 +1,42 @@
+{
+    "title": "Video cultural de la visita de Steren al MUMCI",
+    "description": "Video donde se muestra el MUMCI. Un espacio educativo que cuenta con salas sobre diversas ramas industriales, tales como: agricultura, manufactura, administr...",
+    "referenceId": null,
+    "date_created": "1385165261",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134135",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-cultural-de-la-visita-de-Steren-al-MUMCI",
+    "category": null,
+    "duration": 199,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "bSBvqfb1U10",
+        "hookText": "Video donde se muestra el MUMCI. Un espacio educativo que cuenta con salas sobre diversas ramas industriales, tales como: agricultura, manufactura, administr...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/bSBvqfb1U10\/sddefault.jpg",
+        "mediaDuration": "199",
+        "hdvFlag": 0,
+        "uploadDate": 1342591531,
+        "prettyDuration": "03:19"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "18",
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 170.24684
+}

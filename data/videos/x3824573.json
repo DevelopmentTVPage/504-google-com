@@ -1,0 +1,43 @@
+{
+    "title": "Nike Chosen: Live from the US Open Round 2 Update Ep. 1",
+    "description": "Checking in live from the US Open to see the current Round 2 leaders of the Nike Chosen crew video contest.",
+    "referenceId": null,
+    "date_created": "1424454631",
+    "date_modified": "1424454631",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824573",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Chosen-Live-from-the-US-Open-Round-2-Update-Ep-1",
+    "category": null,
+    "duration": 50,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "i4pr-hAypLs",
+        "hookText": "Checking in live from the US Open to see the current Round 2 leaders of the Nike Chosen crew video contest.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/i4pr-hAypLs\/maxresdefault.jpg",
+        "mediaDuration": "50",
+        "hdvFlag": 1,
+        "uploadDate": 1312499014,
+        "prettyDuration": "00:50"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "19",
+        "16",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8607.673
+}
