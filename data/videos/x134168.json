@@ -1,0 +1,41 @@
+{
+    "title": "Video Comerciales Steren: Destroyer",
+    "description": "Video de entretenimiento. Regresan los descuentos del 10%, 20% y 30% en toda la tienda. V\u00e1lido del 11 de junio al 31 de julio de 2011. http:\/\/www.steren.com.mx\/",
+    "referenceId": null,
+    "date_created": "1385165264",
+    "date_modified": "1418181113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134168",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-Comerciales-Steren-Destroyer",
+    "category": null,
+    "duration": 33,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "b02a4vBRQt0",
+        "hookText": "Video de entretenimiento. Regresan los descuentos del 10%, 20% y 30% en toda la tienda. V\u00e1lido del 11 de junio al 31 de julio de 2011. http:\/\/www.steren.com.mx\/",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/b02a4vBRQt0\/hqdefault.jpg",
+        "mediaDuration": "33",
+        "hdvFlag": 0,
+        "uploadDate": 1307668623,
+        "prettyDuration": "00:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4",
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 112.88253
+}

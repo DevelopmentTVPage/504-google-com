@@ -1,0 +1,42 @@
+{
+    "title": "My Pants",
+    "description": "Brought to you by: http:\/\/www.thelonelyisland.com\/ You are free to copy, share and remix this video, under these conditions: http:\/\/creativecommons.org\/licen...",
+    "referenceId": null,
+    "date_created": "1396559871",
+    "date_modified": "1418181244",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149776",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "My-Pants",
+    "category": null,
+    "duration": 30,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "jqWHidMPsvo",
+        "hookText": "Brought to you by: http:\/\/www.thelonelyisland.com\/ You are free to copy, share and remix this video, under these conditions: http:\/\/creativecommons.org\/licen...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/jqWHidMPsvo\/hqdefault.jpg",
+        "mediaDuration": "30",
+        "hdvFlag": 1,
+        "uploadDate": 1135418132,
+        "prettyDuration": "00:30"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26",
+        "18",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 250.0603
+}

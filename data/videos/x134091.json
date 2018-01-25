@@ -1,0 +1,40 @@
+{
+    "title": "Video del Proyecto 22 - Temporizador para alarmas residencia",
+    "description": "Video donde te mostramos el funcionamiento de un temporizador para alarmas residenciales, que sirve para controlar un tiempo para permanecer desactivada dand...",
+    "referenceId": null,
+    "date_created": "1385165256",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134091",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-del-Proyecto-22-Temporizador-para-alarmas-residencia",
+    "category": null,
+    "duration": 208,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "_QkZKZciwYk",
+        "hookText": "Video donde te mostramos el funcionamiento de un temporizador para alarmas residenciales, que sirve para controlar un tiempo para permanecer desactivada dand...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_QkZKZciwYk\/maxresdefault.jpg",
+        "mediaDuration": "208",
+        "hdvFlag": 1,
+        "uploadDate": 1365632967,
+        "prettyDuration": "03:28"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 321.20627
+}

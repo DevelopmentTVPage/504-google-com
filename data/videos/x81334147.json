@@ -1,0 +1,68 @@
+{
+    "title": "Martha & Macy\u2019s Quick Tips - Dinner Parties Made Easy",
+    "description": "123",
+    "referenceId": "e3d5403506afadd006c53b7a091b698a",
+    "date_created": "1480377420",
+    "date_modified": "1480378523",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "81334147",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Martha-Macy-s-Quick-Tips-Dinner-Parties-Made-Easy",
+    "category": "",
+    "duration": "35",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "35",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/521\/canvas\/2426\/1349\/173285643-0324261352.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/81334147\/a8909\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/81334147\/a8909\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/81334147\/a8909\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/81334147\/a8909\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "65",
+    "CVV_VI": null,
+    "engagement_score": "3",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": [
+        "4",
+        "9",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 159.80577
+}

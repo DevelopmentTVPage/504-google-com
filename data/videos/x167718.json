@@ -1,0 +1,40 @@
+{
+    "title": "Episode 8: TVPage for Developers",
+    "description": "Create any TVPage experience you desire with our developer tools! TVPage is open source, meaning that anyone can access and modify our code to create a custo...",
+    "referenceId": null,
+    "date_created": "1400633583",
+    "date_modified": "1418181428",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "167718",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-8-TVPage-for-Developers",
+    "category": null,
+    "duration": 500,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "ppfAaZuBDvA",
+        "hookText": "Create any TVPage experience you desire with our developer tools! TVPage is open source, meaning that anyone can access and modify our code to create a custo...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ppfAaZuBDvA\/maxresdefault.jpg",
+        "mediaDuration": "500",
+        "hdvFlag": 1,
+        "uploadDate": 1386036711,
+        "prettyDuration": "08:20"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 330.46014
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Brian Urlacher:  Big Hits Big Plays",
+    "description": "Back in Lovington, New Mexico Brian Urlacher showed early he was a star.",
+    "referenceId": null,
+    "date_created": "1424454635",
+    "date_modified": "1424454635",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824611",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Brian-Urlacher-Big-Hits-Big-Plays",
+    "category": null,
+    "duration": 120,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "v1gRxHDkqAk",
+        "hookText": "Back in Lovington, New Mexico Brian Urlacher showed early he was a star.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/v1gRxHDkqAk\/hqdefault.jpg",
+        "mediaDuration": "120",
+        "hdvFlag": 0,
+        "uploadDate": 1174516372,
+        "prettyDuration": "02:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 223.12039
+}

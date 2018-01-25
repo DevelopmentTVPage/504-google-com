@@ -1,0 +1,41 @@
+{
+    "title": "DKNY Resort 2013 Campaign Video",
+    "description": "DKNY Resort 2013 Campaign Video shot on the streets of New York City.",
+    "referenceId": null,
+    "date_created": "1383068094",
+    "date_modified": "1418181071",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "127600",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "DKNY-Resort-2013-Campaign-Video",
+    "category": null,
+    "duration": 38,
+    "settings": [],
+    "asset": {
+        "author": "DKNY",
+        "videoId": "h6SytfdKmXc",
+        "hookText": "DKNY Resort 2013 Campaign Video shot on the streets of New York City.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/h6SytfdKmXc\/mqdefault.jpg",
+        "mediaDuration": "38",
+        "hdvFlag": 1,
+        "uploadDate": 1350450910,
+        "prettyDuration": "00:38"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 255.27347
+}

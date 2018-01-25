@@ -1,0 +1,40 @@
+{
+    "title": "TechnoBuffalo Intro",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1385504212",
+    "date_modified": "1418181116",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134541",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "TechnoBuffalo-Intro",
+    "category": null,
+    "duration": 8,
+    "settings": [],
+    "asset": {
+        "author": "TechnoBuffalo",
+        "hdvFlag": 1,
+        "mediaDuration": "8",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/v_ccVBBxgRM\/mqdefault.jpg",
+        "uploadDate": 1299188894,
+        "videoId": "v_ccVBBxgRM",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8.492904
+}

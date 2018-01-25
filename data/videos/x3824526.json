@@ -1,0 +1,43 @@
+{
+    "title": "Nike+ Training: Train Like Allyson Felix",
+    "description": "Allyson Felix performs a tuck jump in the Nike Lunar HyperWorkout+ shoe. The Nike Lunar HyperWorkout+ shoe captures reps, NikeFuel and calories and transmits...",
+    "referenceId": null,
+    "date_created": "1424454627",
+    "date_modified": "1424454627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824526",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Training-Train-Like-Allyson-Felix",
+    "category": null,
+    "duration": 21,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "KHjWNz9mto0",
+        "hookText": "Allyson Felix performs a tuck jump in the Nike Lunar HyperWorkout+ shoe. The Nike Lunar HyperWorkout+ shoe captures reps, NikeFuel and calories and transmits...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KHjWNz9mto0\/maxresdefault.jpg",
+        "mediaDuration": "21",
+        "hdvFlag": 1,
+        "uploadDate": 1340426333,
+        "prettyDuration": "00:21"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "7",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 157.9648
+}

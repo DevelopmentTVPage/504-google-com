@@ -1,0 +1,42 @@
+{
+    "title": "Nike+ Training: Train Like Manny Pacquiao",
+    "description": "Manny Pacquiao performs a crossover jump rope in the Nike LunarTR1+ shoe. The Nike LunarTR1+ shoe captures reps, NikeFuel and calories and transmits that inf...",
+    "referenceId": null,
+    "date_created": "1424454627",
+    "date_modified": "1424454627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824525",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Training-Train-Like-Manny-Pacquiao",
+    "category": null,
+    "duration": 29,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "KDtxpsHwW2Y",
+        "hookText": "Manny Pacquiao performs a crossover jump rope in the Nike LunarTR1+ shoe. The Nike LunarTR1+ shoe captures reps, NikeFuel and calories and transmits that inf...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KDtxpsHwW2Y\/maxresdefault.jpg",
+        "mediaDuration": "29",
+        "hdvFlag": 1,
+        "uploadDate": 1340426579,
+        "prettyDuration": "00:29"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 160.80669
+}

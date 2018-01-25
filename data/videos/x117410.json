@@ -1,0 +1,40 @@
+{
+    "title": "Mountain",
+    "description": "Tour the mightiest mountain ranges, starting with the birth of a mountain at one of the lowest places on Earth and ending at the summit of Everest. One of Earth's rarest phenomena is a lava lake that has been erupting for over 100 years. The same forces b",
+    "referenceId": null,
+    "date_created": "1380069881",
+    "date_modified": "1418181041",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117410",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Mountain",
+    "category": null,
+    "duration": 2870,
+    "settings": [],
+    "asset": {
+        "author": "TheBBCStore",
+        "hdvFlag": 1,
+        "mediaDuration": "2870",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/dl08KAx0HGs\/mqdefault.jpg",
+        "uploadDate": 1365638726,
+        "videoId": "dl08KAx0HGs",
+        "hookText": "Tour the mightiest mountain ranges, starting with the birth of a mountain at one of the lowest places on Earth and ending at the summit of Everest. One of Earth's rarest phenomena is a lava lake that has been erupting for over 100 years. The same forces built the Simian Mountains where troops of gelada baboons live, nearly a thousand strong. In the Rockies, grizzlies build winter dens inside avalanche-prone slopes. The programme also brings us astounding images of a snow leopard hunting on the Pakistan peaks, a world first."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 630.79663
+}

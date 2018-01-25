@@ -1,0 +1,39 @@
+{
+    "title": "On Assignment: Hawaii's Hidden Paradise",
+    "description": "A National Geographic explorer discovers what lies in a virtually untouched region on the eastern slopes of the Mauna Kea volcano in Hawaii.",
+    "referenceId": null,
+    "date_created": "1380119537",
+    "date_modified": "1418181042",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117459",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "On-Assignment-Hawaii-s-Hidden-Paradise",
+    "category": null,
+    "duration": 69,
+    "settings": [],
+    "asset": {
+        "author": "NationalGeographic",
+        "hdvFlag": 1,
+        "mediaDuration": "69",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HRZ9fJC-bRU\/mqdefault.jpg",
+        "uploadDate": 1363115928,
+        "videoId": "HRZ9fJC-bRU",
+        "hookText": "A National Geographic explorer discovers what lies in a virtually untouched region on the eastern slopes of the Mauna Kea volcano in Hawaii."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 186.73035
+}

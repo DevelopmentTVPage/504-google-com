@@ -1,0 +1,42 @@
+{
+    "title": "NIKE BUILDING TWIST",
+    "description": "?????????NIKE FREE?????????????????????????????NIKE BUILDING TWIST????????????????????????? ????????????????????????????????????????????????????????????\"??\"???????????",
+    "referenceId": null,
+    "date_created": "1424454642",
+    "date_modified": "1424454642",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824685",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "NIKE-BUILDING-TWIST",
+    "category": null,
+    "duration": 64,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "1wpdMfZj13M",
+        "hookText": "\u81ea\u7531\u81ea\u5728\u306b\u66f2\u304c\u308b\u300cNIKE FREE\u300d\u306e\u52d5\u304d\u306b\u5408\u308f\u305b\u3066\u3001\u3042\u306e\u6a2a\u6d5c\u8d64\u30ec\u30f3\u30ac\u5009\u5eab\u304c\u5927\u304d\u304f\u66f2\u304c\u3063\u305f\u300cNIKE BUILDING TWIST\u300d\u3002\u305d\u306e\u5f53\u65e5\u306e\u6a21\u69d8\u3092\u53ce\u3081\u305f\u30e0\u30fc\u30d3\u30fc\u304c\u5b8c\u6210\u3057\u307e\u3057\u305f\uff01 \u307e\u308b\u3067\u751f\u304d\u3066\u3044\u308b\u3088\u3046\u306b\u52d5\u304f\u8d64\u30ec\u30f3\u30ac\u5009\u5eab\u3001\u305d\u306e\u77ac\u9593\u306e\u76ee\u6483\u8005\u3068\u306a\u308a\u3001\u9a5a\u304f\u30aa\u30fc\u30c7\u30a3\u30a8\u30f3\u30b9\u3002\u3053\u306e\u30e0\u30fc\u30d3\u30fc\u3092\u898b\u308c\u3070\u3001\u3042\u306a\u305f\u306e\u5185\u306a\u308b\"\u91ce\u6027\"\u3082\u3088\u3073\u3055\u307e\u3055\u308c\u308b\u306f\u305a\uff01",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1wpdMfZj13M\/maxresdefault.jpg",
+        "mediaDuration": "64",
+        "hdvFlag": 1,
+        "uploadDate": 1335881466,
+        "prettyDuration": "01:04"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 39.945747
+}

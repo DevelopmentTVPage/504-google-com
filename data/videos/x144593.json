@@ -1,0 +1,40 @@
+{
+    "title": "API Nexx Aquarium Filter",
+    "description": "http:\/\/video.petco.com\/?v=17257 View this video featuring the API nexx Aquarium FILTER product and shop other similar products on petco.com. More information...",
+    "referenceId": null,
+    "date_created": "1394589003",
+    "date_modified": "1418181172",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144593",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "API-Nexx-Aquarium-Filter",
+    "category": null,
+    "duration": 181,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "OXBngdj3KAw",
+        "hookText": "http:\/\/video.petco.com\/?v=17257 View this video featuring the API nexx Aquarium FILTER product and shop other similar products on petco.com. More information...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OXBngdj3KAw\/sddefault.jpg",
+        "mediaDuration": "181",
+        "hdvFlag": 0,
+        "uploadDate": 1310021010,
+        "prettyDuration": "03:01"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 464.69897
+}

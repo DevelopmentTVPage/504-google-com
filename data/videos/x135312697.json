@@ -1,0 +1,39 @@
+{
+    "title": "MMA Dude",
+    "description": "Some dude",
+    "referenceId": "444d98066cb8406a912c666afd7beb7f",
+    "date_created": "1516918964",
+    "date_modified": "1516919315",
+    "tags": "mma, fighter",
+    "sourceId": "6",
+    "VIDEO_LENGTH": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "135312697",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "MMA-Dude",
+    "category": "",
+    "duration": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": "",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/521\/canvas\/1280\/719\/582102162-011280720.jpg",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 0
+}

@@ -1,0 +1,43 @@
+{
+    "title": "1.19.12",
+    "description": "Nike+ 1.19.12 #makeitcount.",
+    "referenceId": null,
+    "date_created": "1424454630",
+    "date_modified": "1424454630",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824561",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "1-19-12",
+    "category": null,
+    "duration": 14,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "-PFQDSqrt6E",
+        "hookText": "Nike+ 1.19.12 #makeitcount.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-PFQDSqrt6E\/maxresdefault.jpg",
+        "mediaDuration": "14",
+        "hdvFlag": 1,
+        "uploadDate": 1325104117,
+        "prettyDuration": "00:14"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "34",
+        "25",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4.6215467
+}

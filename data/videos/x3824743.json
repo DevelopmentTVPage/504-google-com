@@ -1,0 +1,42 @@
+{
+    "title": "Nike SB Australia - Two Up Trailer",
+    "description": "Nike SB presents Two Up, a two man skateboarding film featuring Australian team riders Alex Campbell and Nick Boserio. Full video April 4.",
+    "referenceId": null,
+    "date_created": "1424457132",
+    "date_modified": "1424457132",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824743",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-SB-Australia-Two-Up-Trailer",
+    "category": null,
+    "duration": 64,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "nikeskateboarding",
+        "hdvFlag": 1,
+        "hookText": "Nike SB presents Two Up, a two man skateboarding film featuring Australian team riders Alex Campbell and Nick Boserio. Full video April 4.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/RnUKGMk4c9I\/maxresdefault.jpg",
+        "uploadDate": 1395706803,
+        "videoId": "RnUKGMk4c9I",
+        "mediaDuration": "64",
+        "prettyDuration": "01:04"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 243.3013
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Video Tutorial que muestra el armado y la conexi\u00f3n de la Ant",
+    "description": "Video donde te mostramos como la antena plana para interiores es ideal para recibir se\u00f1al de TV de alta definici\u00f3n (HDTV) en \u00e1reas urbanas cercanas a antenas...",
+    "referenceId": null,
+    "date_created": "1385165259",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134115",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-Tutorial-que-muestra-el-armado-y-la-conexi\u00f3n-de-la-Ant",
+    "category": null,
+    "duration": 135,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "A4Hdu7gPsa8",
+        "hookText": "Video donde te mostramos como la antena plana para interiores es ideal para recibir se\u00f1al de TV de alta definici\u00f3n (HDTV) en \u00e1reas urbanas cercanas a antenas...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/A4Hdu7gPsa8\/maxresdefault.jpg",
+        "mediaDuration": "135",
+        "hdvFlag": 1,
+        "uploadDate": 1347949413,
+        "prettyDuration": "02:15"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4",
+        "32",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 251.6898
+}

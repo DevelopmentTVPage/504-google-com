@@ -1,0 +1,43 @@
+{
+    "title": "NIKE | The British 10K, powered by Nike+ | London, UK 8.7.12",
+    "description": "They trained, they tracked, they ran. On 8th July, 2012 thousands of Nike+ runners hit London streets to log a very iconic run at the British 10K race. Join ...",
+    "referenceId": null,
+    "date_created": "1424454626",
+    "date_modified": "1424454626",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824513",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "NIKE-The-British-10K-powered-by-Nike-London-UK-8-7-12",
+    "category": null,
+    "duration": 101,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "j5lzP_UKAT4",
+        "hookText": "They trained, they tracked, they ran. On 8th July, 2012 thousands of Nike+ runners hit London streets to log a very iconic run at the British 10K race. Join ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/j5lzP_UKAT4\/maxresdefault.jpg",
+        "mediaDuration": "101",
+        "hdvFlag": 1,
+        "uploadDate": 1342659054,
+        "prettyDuration": "01:41"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "14",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 248.20087
+}

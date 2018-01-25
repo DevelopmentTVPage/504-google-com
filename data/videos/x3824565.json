@@ -1,0 +1,41 @@
+{
+    "title": "2011 Doernbecher Design - Daniel Bair",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1424454631",
+    "date_modified": "1424454631",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824565",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "2011-Doernbecher-Design-Daniel-Bair",
+    "category": null,
+    "duration": 191,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "PAx9u5UWW2s",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/PAx9u5UWW2s\/maxresdefault.jpg",
+        "mediaDuration": "191",
+        "hdvFlag": 1,
+        "uploadDate": 1320200206,
+        "prettyDuration": "03:11"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 16.089071
+}

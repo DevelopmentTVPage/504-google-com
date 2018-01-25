@@ -1,0 +1,41 @@
+{
+    "title": "Dog Spinny Interactive Game",
+    "description": "http:\/\/video.petco.com\/?v=15888 Watch this video featuring products available on petco.com.",
+    "referenceId": null,
+    "date_created": "1394589008",
+    "date_modified": "1418181173",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144639",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Dog-Spinny-Interactive-Game",
+    "category": null,
+    "duration": 141,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "LHzZtdd1x_Q",
+        "hookText": "http:\/\/video.petco.com\/?v=15888 Watch this video featuring products available on petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/LHzZtdd1x_Q\/sddefault.jpg",
+        "mediaDuration": "141",
+        "hdvFlag": 0,
+        "uploadDate": 1304590748,
+        "prettyDuration": "02:21"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 175.80534
+}

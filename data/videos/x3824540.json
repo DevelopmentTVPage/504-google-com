@@ -1,0 +1,43 @@
+{
+    "title": "NIKE+ FUELBAND QUICK START",
+    "description": "The quickest way to start earning NikeFuel with your Nike+ FuelBand. Life is a Sport. Make it Count. To find out more about Nike+ FuelBand go to http:\/\/nike....",
+    "referenceId": null,
+    "date_created": "1424454629",
+    "date_modified": "1424454629",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824540",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "NIKE-FUELBAND-QUICK-START",
+    "category": null,
+    "duration": 138,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "t-_v6-JiDZs",
+        "hookText": "The quickest way to start earning NikeFuel with your Nike+ FuelBand. Life is a Sport. Make it Count. To find out more about Nike+ FuelBand go to http:\/\/nike....",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/t-_v6-JiDZs\/maxresdefault.jpg",
+        "mediaDuration": "138",
+        "hdvFlag": 1,
+        "uploadDate": 1329893696,
+        "prettyDuration": "02:18"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "12",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 591.0204
+}

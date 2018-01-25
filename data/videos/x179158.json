@@ -1,0 +1,42 @@
+{
+    "title": "Jerome's Furniture. A TVPage Case Study.",
+    "description": "Jerome's TVPage Video Shopping Experience is an important part in making the brand a media company as much as a furniture retailer, or, more precisely, intertwining the two. The website presents...",
+    "referenceId": null,
+    "date_created": "1403111804",
+    "date_modified": "1418181590",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "179158",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Jerome-s-Furniture-A-TVPage-Case-Study",
+    "category": null,
+    "duration": 198,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "hdvFlag": 1,
+        "hookText": "Jerome's TVPage Video Shopping Experience is an important part in making the brand a media company as much as a furniture retailer, or, more precisely, intertwining the two. The website presents...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ntMcDgNZoUI\/maxresdefault.jpg",
+        "uploadDate": 1403104724,
+        "videoId": "ntMcDgNZoUI",
+        "mediaDuration": "198",
+        "prettyDuration": "03:18"
+    },
+    "transcripts": null,
+    "VV_VI": "71",
+    "CVV_VI": null,
+    "engagement_score": "4",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": [
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 435.1
+}

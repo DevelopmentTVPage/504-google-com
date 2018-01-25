@@ -1,0 +1,93 @@
+{
+    "title": "TVPage - The Video Commerce Platform",
+    "description": ".",
+    "referenceId": "fef766266f677b802356691dbcfd8b87",
+    "date_created": "1449273237",
+    "date_modified": "1453142815",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "9998762",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "TVPage-The-Video-Commerce-Platform",
+    "category": "",
+    "duration": 139,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "139",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "139",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/9998762\/thumb-fef766266f677b802356691dbcfd8b87-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/9998762\/dash.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/9998762\/hls.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/9998762\/1080p_7784f_TVPage-NEW-Motion-Blur.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/9998762\/720p_7784f_TVPage-NEW-Motion-Blur.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/9998762\/480p_7784f_TVPage-NEW-Motion-Blur.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/9998762\/360p_7784f_TVPage-NEW-Motion-Blur.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/9998762\/240p_7784f_TVPage-NEW-Motion-Blur.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/9998762\/144p_7784f_TVPage-NEW-Motion-Blur.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "VV_VI": "1756",
+    "CVV_VI": null,
+    "engagement_score": "100",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": [
+        "24",
+        "9",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 129.67908
+}

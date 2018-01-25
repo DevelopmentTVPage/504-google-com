@@ -1,0 +1,41 @@
+{
+    "title": "Stunning Stargazing",
+    "description": "space",
+    "referenceId": null,
+    "date_created": "1380071554",
+    "date_modified": "1418181042",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117446",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Stunning-Stargazing",
+    "category": null,
+    "duration": 473,
+    "settings": [],
+    "asset": {
+        "author": "maylo sufer",
+        "hdvFlag": 0,
+        "mediaDuration": "473",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/kaA8QO1Uf8I\/mqdefault.jpg",
+        "uploadDate": 1374965241,
+        "videoId": "kaA8QO1Uf8I",
+        "hookText": "space"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "20",
+        "12",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8.12888
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Together | LeBron James",
+    "description": "This time it's bigger than basketball.",
+    "referenceId": null,
+    "date_created": "1424454641",
+    "date_modified": "1432853589",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824673",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Together-LeBron-James",
+    "category": null,
+    "duration": 136,
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "n6S1JoCSVNU",
+        "hookText": "This time it's bigger than basketball.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/n6S1JoCSVNU\/maxresdefault.jpg",
+        "mediaDuration": "136",
+        "hdvFlag": 1,
+        "uploadDate": 1414710199,
+        "prettyDuration": "02:16"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "27",
+        "31"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 78.0586
+}

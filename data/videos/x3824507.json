@@ -1,0 +1,42 @@
+{
+    "title": "Nike Presents: Hyperwarm with Calvin Johnson",
+    "description": "The weather gets cold. Calvin Johnson never does. Focus on your game, not on the weather with Nike Hyperwarm. http:\/\/gonike.me\/_Hyperwarm.",
+    "referenceId": null,
+    "date_created": "1424454626",
+    "date_modified": "1424454626",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824507",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Presents-Hyperwarm-with-Calvin-Johnson",
+    "category": null,
+    "duration": 31,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "JMdwyIH9lSk",
+        "hookText": "The weather gets cold. Calvin Johnson never does. Focus on your game, not on the weather with Nike Hyperwarm. http:\/\/gonike.me\/_Hyperwarm.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JMdwyIH9lSk\/sddefault.jpg",
+        "mediaDuration": "31",
+        "hdvFlag": 1,
+        "uploadDate": 1350948933,
+        "prettyDuration": "00:31"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 306.9574
+}

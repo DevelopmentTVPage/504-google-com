@@ -1,0 +1,43 @@
+{
+    "title": "Nike+ Presents: I'm with the Band at MusicfestNW",
+    "description": "Life is a sport. And music counts. The music community descended upon Portland, Oregon for this year's MusicfestNW. This year, we turned MusicfestNW into a s...",
+    "referenceId": null,
+    "date_created": "1424454626",
+    "date_modified": "1424454626",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824508",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Presents-I-m-with-the-Band-at-MusicfestNW",
+    "category": null,
+    "duration": 90,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "JIHwj_gOAdI",
+        "hookText": "Life is a sport. And music counts. The music community descended upon Portland, Oregon for this year's MusicfestNW. This year, we turned MusicfestNW into a s...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JIHwj_gOAdI\/hqdefault.jpg",
+        "mediaDuration": "90",
+        "hdvFlag": 1,
+        "uploadDate": 1349241501,
+        "prettyDuration": "01:30"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "11",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 440.53308
+}

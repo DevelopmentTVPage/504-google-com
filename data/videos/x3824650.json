@@ -1,0 +1,43 @@
+{
+    "title": "Nike Running: Some Time Together",
+    "description": "Ready for the run of a lifetime? Nike LunarGlide+ 3 Shields: When your shoes are ultra-comfortable, it means longer runs. Like, \"a marathon is just the warm-up\" longer runs. Get ready to run with Nike at http:\/\/nikerunning.nike.com.",
+    "referenceId": null,
+    "date_created": "1424454639",
+    "date_modified": "1424454639",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824650",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Running-Some-Time-Together",
+    "category": null,
+    "duration": 66,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "H0Pvn5ejnRQ",
+        "hookText": "Ready for the run of a lifetime? Nike LunarGlide+ 3 Shields: When your shoes are ultra-comfortable, it means longer runs. Like, \"a marathon is just the warm-up\" longer runs. Get ready to run with Nike at http:\/\/nikerunning.nike.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/H0Pvn5ejnRQ\/maxresdefault.jpg",
+        "mediaDuration": "66",
+        "hdvFlag": 1,
+        "uploadDate": 1319800395,
+        "prettyDuration": "01:06"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "28",
+        "25",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 703.7329
+}

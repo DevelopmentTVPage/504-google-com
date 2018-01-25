@@ -1,0 +1,43 @@
+{
+    "title": "This is NikeFuel",
+    "description": "NikeFuel is a single, universal way to measure all kinds of activities\u2014from your morning workout to your big night out. Uniquely designed to measure whole-bo...",
+    "referenceId": null,
+    "date_created": "1424454624",
+    "date_modified": "1424454624",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824490",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "This-is-NikeFuel",
+    "category": null,
+    "duration": 56,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "bvMohoDFZ30",
+        "hookText": "NikeFuel is a single, universal way to measure all kinds of activities\u2014from your morning workout to your big night out. Uniquely designed to measure whole-bo...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/bvMohoDFZ30\/sddefault.jpg",
+        "mediaDuration": "56",
+        "hdvFlag": 1,
+        "uploadDate": 1381878822,
+        "prettyDuration": "00:56"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "26",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 486.46326
+}

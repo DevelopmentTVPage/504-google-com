@@ -1,0 +1,40 @@
+{
+    "title": "Kitty eats Gelert",
+    "description": "Bunny kick!",
+    "referenceId": null,
+    "date_created": "1394589017",
+    "date_modified": "1418181174",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144713",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Kitty-eats-Gelert",
+    "category": null,
+    "duration": 44,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "zDPeBQwUIaE",
+        "hookText": "Bunny kick!",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/zDPeBQwUIaE\/hqdefault.jpg",
+        "mediaDuration": "44",
+        "hdvFlag": 0,
+        "uploadDate": 1308794528,
+        "prettyDuration": "00:44"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9.479601
+}

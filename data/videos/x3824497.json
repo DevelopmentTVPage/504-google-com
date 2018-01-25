@@ -1,0 +1,43 @@
+{
+    "title": "NikeFuel Missions: Make It Count - Intro",
+    "description": "NikeFuel Missions is here. Play now: http:\/\/nike.com\/missions In a world conquered by cold, you'll have to earn your way out with the help of Calvin Johnson,...",
+    "referenceId": null,
+    "date_created": "1424454625",
+    "date_modified": "1424454625",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824497",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "NikeFuel-Missions-Make-It-Count-Intro",
+    "category": null,
+    "duration": 50,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "I729ggAQ3nU",
+        "hookText": "NikeFuel Missions is here. Play now: http:\/\/nike.com\/missions In a world conquered by cold, you'll have to earn your way out with the help of Calvin Johnson,...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/I729ggAQ3nU\/maxresdefault.jpg",
+        "mediaDuration": "50",
+        "hdvFlag": 1,
+        "uploadDate": 1355893593,
+        "prettyDuration": "00:50"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "12",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 487.51025
+}

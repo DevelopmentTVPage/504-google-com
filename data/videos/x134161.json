@@ -1,0 +1,40 @@
+{
+    "title": "Video Comerciales Steren: A\u00f1o Nuevo",
+    "description": "Video de entretenimiento. Terminaron las fiestas pero en Steren sigue la celebraci\u00f3n con descuentos del 10%, 20% y 30% | Promoci\u00f3n v\u00e1lida hasta el 15 de ener...",
+    "referenceId": null,
+    "date_created": "1385165263",
+    "date_modified": "1418181113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134161",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-Comerciales-Steren-A\u00f1o-Nuevo",
+    "category": null,
+    "duration": 33,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "jZJxqD9fGrk",
+        "hookText": "Video de entretenimiento. Terminaron las fiestas pero en Steren sigue la celebraci\u00f3n con descuentos del 10%, 20% y 30% | Promoci\u00f3n v\u00e1lida hasta el 15 de ener...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/jZJxqD9fGrk\/sddefault.jpg",
+        "mediaDuration": "33",
+        "hdvFlag": 0,
+        "uploadDate": 1323389627,
+        "prettyDuration": "00:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 88.184364
+}

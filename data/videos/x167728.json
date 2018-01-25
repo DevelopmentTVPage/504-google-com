@@ -1,0 +1,42 @@
+{
+    "title": "Episode 9: Brand TV",
+    "description": "Make your own \"Brand TV\" by creating a customized video experience around your Brand. Increase Brand awareness and Sales with TVPage!",
+    "referenceId": null,
+    "date_created": "1400633584",
+    "date_modified": "1418181428",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "167728",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-9-Brand-TV",
+    "category": null,
+    "duration": 254,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "rVJPxf3LUe4",
+        "hookText": "Make your own \"Brand TV\" by creating a customized video experience around your Brand. Increase Brand awareness and Sales with TVPage!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rVJPxf3LUe4\/maxresdefault.jpg",
+        "mediaDuration": "254",
+        "hdvFlag": 1,
+        "uploadDate": 1387355590,
+        "prettyDuration": "04:14"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "12",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 238.54294
+}

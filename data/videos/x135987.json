@@ -1,0 +1,42 @@
+{
+    "title": "Customize your TVPage",
+    "description": "Customize your TVPage with your Template of choice. You can also upload a Canvas image or select from the Canvas Gallery. You can even change the color theme...",
+    "referenceId": null,
+    "date_created": "1386797327",
+    "date_modified": "1418181128",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135987",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Customize-your-TVPage",
+    "category": null,
+    "duration": 39,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "kPo7TtPnEjQ",
+        "hookText": "Customize your TVPage with your Template of choice. You can also upload a Canvas image or select from the Canvas Gallery. You can even change the color theme...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/kPo7TtPnEjQ\/maxresdefault.jpg",
+        "mediaDuration": "39",
+        "hdvFlag": 1,
+        "uploadDate": 1367565133,
+        "prettyDuration": "00:39"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32",
+        "12",
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4436.129
+}

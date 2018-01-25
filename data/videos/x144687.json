@@ -1,0 +1,42 @@
+{
+    "title": "Behind the Scenes at the Rose Parade",
+    "description": "Get an up-close look at at the Rose Parade experience with exclusive behind-the-scenes footage. http:\/\/www.petco.com.",
+    "referenceId": null,
+    "date_created": "1394589013",
+    "date_modified": "1418181173",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144687",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Behind-the-Scenes-at-the-Rose-Parade",
+    "category": null,
+    "duration": 138,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "nYxDRb01XT4",
+        "hookText": "Get an up-close look at at the Rose Parade experience with exclusive behind-the-scenes footage. http:\/\/www.petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nYxDRb01XT4\/maxresdefault.jpg",
+        "mediaDuration": "138",
+        "hdvFlag": 1,
+        "uploadDate": 1294304034,
+        "prettyDuration": "02:18"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33",
+        "14",
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8945.091
+}

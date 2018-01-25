@@ -1,0 +1,42 @@
+{
+    "title": "Tucker's Song",
+    "description": "Brian Tucker has something to say about The Dudes.",
+    "referenceId": null,
+    "date_created": "1396559868",
+    "date_modified": "1418181243",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149752",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Tucker-s-Song",
+    "category": null,
+    "duration": 47,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "3v-D4pPcnT8",
+        "hookText": "Brian Tucker has something to say about The Dudes.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3v-D4pPcnT8\/hqdefault.jpg",
+        "mediaDuration": "47",
+        "hdvFlag": 0,
+        "uploadDate": 1163333925,
+        "prettyDuration": "00:47"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "20",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 188.40613
+}

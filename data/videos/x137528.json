@@ -1,0 +1,39 @@
+{
+    "title": "Weigh In.AVI",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1387324967",
+    "date_modified": "1418181134",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "137528",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Weigh-In-AVI",
+    "category": null,
+    "duration": 285,
+    "settings": [],
+    "asset": {
+        "author": "Everlast",
+        "hdvFlag": 0,
+        "mediaDuration": "285",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/40onyqR-bKY\/mqdefault.jpg",
+        "uploadDate": 1276567934,
+        "videoId": "40onyqR-bKY",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "3"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 11.4471655
+}

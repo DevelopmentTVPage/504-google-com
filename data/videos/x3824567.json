@@ -1,0 +1,43 @@
+{
+    "title": "2011 Doernbecher Design - Makenzie",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1424454631",
+    "date_modified": "1424454631",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824567",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "2011-Doernbecher-Design-Makenzie",
+    "category": null,
+    "duration": 199,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "CNz42Ss4BsY",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CNz42Ss4BsY\/maxresdefault.jpg",
+        "mediaDuration": "199",
+        "hdvFlag": 1,
+        "uploadDate": 1320195813,
+        "prettyDuration": "03:19"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "20",
+        "18",
+        "30"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4.0960875
+}

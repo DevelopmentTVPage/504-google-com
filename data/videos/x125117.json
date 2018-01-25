@@ -1,0 +1,42 @@
+{
+    "title": "Cory Speaks the TRUth",
+    "description": "Meet Cory. She loves her Patio Bistro!",
+    "referenceId": null,
+    "date_created": "1382373057",
+    "date_modified": "1418181068",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "125117",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Cory-Speaks-the-TRUth",
+    "category": null,
+    "duration": 20,
+    "settings": [],
+    "asset": {
+        "author": "charbroil",
+        "videoId": "4dxc9QTqaXU",
+        "hookText": "Meet Cory. She loves her Patio Bistro!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4dxc9QTqaXU\/mqdefault.jpg",
+        "mediaDuration": "20",
+        "hdvFlag": 1,
+        "uploadDate": 1375998335,
+        "prettyDuration": "00:20"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32",
+        "7",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 164.919
+}

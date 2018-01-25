@@ -1,0 +1,43 @@
+{
+    "title": "NIKE CHOSEN - BEHIND THE SCENES - WHISTLER",
+    "description": "Go behind the scenes with Nicolas Muller and Annie Boulanger as they light up the backcountry in Whistler. See more and find out how your crew could be chose...",
+    "referenceId": null,
+    "date_created": "1424454634",
+    "date_modified": "1424454634",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824592",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "NIKE-CHOSEN-BEHIND-THE-SCENES-WHISTLER",
+    "category": null,
+    "duration": 178,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "rp3dq68mQ2g",
+        "hookText": "Go behind the scenes with Nicolas Muller and Annie Boulanger as they light up the backcountry in Whistler. See more and find out how your crew could be chose...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rp3dq68mQ2g\/maxresdefault.jpg",
+        "mediaDuration": "178",
+        "hdvFlag": 1,
+        "uploadDate": 1306935288,
+        "prettyDuration": "02:58"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33",
+        "14",
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6755.047
+}

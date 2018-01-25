@@ -1,0 +1,42 @@
+{
+    "title": "Nike Football: Hypervenom delivered to Neymar Jr.",
+    "description": "Introducing Hypervenom. Neymar releases a new breed of attack.\n\nJoin a new breed of attack at http:\/\/www.nikefootball.com\nUS: http:\/\/www.nikesoccer.com",
+    "referenceId": null,
+    "date_created": "1424454644",
+    "date_modified": "1424454644",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824700",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Football-Hypervenom-delivered-to-Neymar-Jr",
+    "category": null,
+    "duration": 48,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "WYVeAFAZ0ac",
+        "hookText": "Introducing Hypervenom. Neymar releases a new breed of attack.\n\nJoin a new breed of attack at http:\/\/www.nikefootball.com\nUS: http:\/\/www.nikesoccer.com",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WYVeAFAZ0ac\/maxresdefault.jpg",
+        "mediaDuration": "48",
+        "hdvFlag": 1,
+        "uploadDate": 1369783602,
+        "prettyDuration": "00:48"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 180.3607
+}

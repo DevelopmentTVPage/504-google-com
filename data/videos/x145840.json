@@ -1,0 +1,42 @@
+{
+    "title": "Caturday TV: Viva el Gato - Presented By Petco",
+    "description": "Subscribe to our channel: http:\/\/bit.ly\/12dY9oO Petco presents Caturday TV, a whole new way to celebrate the best part of the weekend! Enjoy the show - and d...",
+    "referenceId": null,
+    "date_created": "1394818904",
+    "date_modified": "1418181188",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "145840",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Caturday-TV-Viva-el-Gato-Presented-By-Petco",
+    "category": null,
+    "duration": 36,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "5A2bNM58834",
+        "hookText": "Subscribe to our channel: http:\/\/bit.ly\/12dY9oO Petco presents Caturday TV, a whole new way to celebrate the best part of the weekend! Enjoy the show - and d...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5A2bNM58834\/maxresdefault.jpg",
+        "mediaDuration": "36",
+        "hdvFlag": 1,
+        "uploadDate": 1339483023,
+        "prettyDuration": "00:36"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 666.4274
+}

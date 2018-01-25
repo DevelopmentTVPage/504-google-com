@@ -1,0 +1,42 @@
+{
+    "title": "Tiger Woods Commercial: Earl and Tiger",
+    "description": "Earl asks his son Tiger a few questions before Tiger's return to golf.",
+    "referenceId": null,
+    "date_created": "1424454641",
+    "date_modified": "1424454641",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824670",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Tiger-Woods-Commercial-Earl-and-Tiger",
+    "category": null,
+    "duration": 33,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "5NTRvlrP2NU",
+        "hookText": "Earl asks his son Tiger a few questions before Tiger's return to golf.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5NTRvlrP2NU\/maxresdefault.jpg",
+        "mediaDuration": "33",
+        "hdvFlag": 1,
+        "uploadDate": 1270690087,
+        "prettyDuration": "00:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 111.45694
+}

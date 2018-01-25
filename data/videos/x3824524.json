@@ -1,0 +1,42 @@
+{
+    "title": "Nike+ Training: Train Like Hope Solo",
+    "description": "Hope Solo performs a crossover jump rope in the Nike Lunar HyperWorkout+ shoe. The Nike Lunar HyperWorkout+ shoe captures reps, NikeFuel and calories and tra...",
+    "referenceId": null,
+    "date_created": "1424454627",
+    "date_modified": "1424454627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824524",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Training-Train-Like-Hope-Solo",
+    "category": null,
+    "duration": 32,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "UUFZ8D5ytck",
+        "hookText": "Hope Solo performs a crossover jump rope in the Nike Lunar HyperWorkout+ shoe. The Nike Lunar HyperWorkout+ shoe captures reps, NikeFuel and calories and tra...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UUFZ8D5ytck\/maxresdefault.jpg",
+        "mediaDuration": "32",
+        "hdvFlag": 1,
+        "uploadDate": 1340495369,
+        "prettyDuration": "00:32"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 160.80669
+}

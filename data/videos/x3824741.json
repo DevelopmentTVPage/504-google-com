@@ -1,0 +1,42 @@
+{
+    "title": "Nike SB Fit to Move Video Lookbook",
+    "description": "Scroll through the full Fit to Move lookbook here: http:\/\/gonike.me\/fit-to-move-lookbook.",
+    "referenceId": null,
+    "date_created": "1424457073",
+    "date_modified": "1424457073",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824741",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-SB-Fit-to-Move-Video-Lookbook",
+    "category": null,
+    "duration": 63,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "nikeskateboarding",
+        "hdvFlag": 1,
+        "hookText": "Scroll through the full Fit to Move lookbook here: http:\/\/gonike.me\/fit-to-move-lookbook.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DCCLvCIH0ys\/maxresdefault.jpg",
+        "uploadDate": 1405621127,
+        "videoId": "DCCLvCIH0ys",
+        "mediaDuration": "63",
+        "prettyDuration": "01:03"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6510.0454
+}

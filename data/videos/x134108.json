@@ -1,0 +1,42 @@
+{
+    "title": "Video que muestra la configuraci\u00f3n del Sintonizador de TV US",
+    "description": "Video donde te mostramos la manera en como puedes configurar el Sintonizador USB. Disfruta en tu computadora de canales en alta definici\u00f3n y en definici\u00f3n es...",
+    "referenceId": null,
+    "date_created": "1385165258",
+    "date_modified": "1418181112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134108",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-que-muestra-la-configuraci\u00f3n-del-Sintonizador-de-TV-US",
+    "category": null,
+    "duration": 321,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "CCEdoEt-Alk",
+        "hookText": "Video donde te mostramos la manera en como puedes configurar el Sintonizador USB. Disfruta en tu computadora de canales en alta definici\u00f3n y en definici\u00f3n es...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CCEdoEt-Alk\/sddefault.jpg",
+        "mediaDuration": "321",
+        "hdvFlag": 0,
+        "uploadDate": 1352348838,
+        "prettyDuration": "05:21"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "12",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 78.493256
+}

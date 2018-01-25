@@ -1,0 +1,41 @@
+{
+    "title": "NIKE MAG",
+    "description": "THE FUTURE IS NOW.\nNike CEO Mark Parker announces the launch of the limited-edition Nike Mag. Complete with individually responsive \"power laces\", first imagined nearly 30 years ago, this technology is destined to alter the course of sport.",
+    "referenceId": "9lJu1gLvctQ",
+    "date_created": "1488414032",
+    "date_modified": "1488414032",
+    "tags": null,
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "85640087",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "NIKE-MAG",
+    "category": null,
+    "duration": 83,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "hdvFlag": 1,
+        "description": "THE FUTURE IS NOW.\nNike CEO Mark Parker announces the launch of the limited-edition Nike Mag. Complete with individually responsive \"power laces\", first imagined nearly 30 years ago, this technology is destined to alter the course of sport.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9lJu1gLvctQ\/hqdefault.jpg",
+        "videoId": "9lJu1gLvctQ",
+        "mediaDuration": 83,
+        "prettyDuration": "00:01:23"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 554.65155
+}

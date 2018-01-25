@@ -1,0 +1,43 @@
+{
+    "title": "Nike Presents Icona Pop: If You Leap First, Look Later.",
+    "description": "Icona Pop lives for the moment. They're the kind of girls who never question their crazy little voice. They're one of us. Are you?",
+    "referenceId": null,
+    "date_created": "1424454622",
+    "date_modified": "1424454622",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824468",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Presents-Icona-Pop-If-You-Leap-First-Look-Later",
+    "category": null,
+    "duration": 19,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "aBaBlAa6t3Y",
+        "hookText": "Icona Pop lives for the moment. They're the kind of girls who never question their crazy little voice. They're one of us. Are you?",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/aBaBlAa6t3Y\/maxresdefault.jpg",
+        "mediaDuration": "19",
+        "hdvFlag": 1,
+        "uploadDate": 1411503616,
+        "prettyDuration": "00:19"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "11",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 428.41797
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Tales from the Kitchen: Nike Free",
+    "description": "The story of Nike Free goes back a long way. Follow Nike Innovation Director Tobie Hatfield along his journey to create it, and get a glimpse into the Nike Innovation Kitchen. More fun Nike Free stuff is coming Wednesday, so keep an eye out.",
+    "referenceId": null,
+    "date_created": "1424454643",
+    "date_modified": "1424454643",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824688",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Tales-from-the-Kitchen-Nike-Free",
+    "category": null,
+    "duration": 166,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "FYdeVUmWR_8",
+        "hookText": "The story of Nike Free goes back a long way. Follow Nike Innovation Director Tobie Hatfield along his journey to create it, and get a glimpse into the Nike Innovation Kitchen. More fun Nike Free stuff is coming Wednesday, so keep an eye out.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/FYdeVUmWR_8\/maxresdefault.jpg",
+        "mediaDuration": "166",
+        "hdvFlag": 1,
+        "uploadDate": 1334038551,
+        "prettyDuration": "02:46"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 615.083
+}

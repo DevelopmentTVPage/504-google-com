@@ -1,0 +1,42 @@
+{
+    "title": "Nike+ Training: Train Like Larry Fitzgerald",
+    "description": "Larry Fitzgerald performs a hurdle drill in the Nike LunarTR1+ shoe. The Nike LunarTR1+ shoe captures reps, NikeFuel and calories and transmits that informat...",
+    "referenceId": null,
+    "date_created": "1424454627",
+    "date_modified": "1424454627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824520",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Training-Train-Like-Larry-Fitzgerald",
+    "category": null,
+    "duration": 29,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "CDZcrA8kaDE",
+        "hookText": "Larry Fitzgerald performs a hurdle drill in the Nike LunarTR1+ shoe. The Nike LunarTR1+ shoe captures reps, NikeFuel and calories and transmits that informat...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CDZcrA8kaDE\/maxresdefault.jpg",
+        "mediaDuration": "29",
+        "hdvFlag": 1,
+        "uploadDate": 1340768952,
+        "prettyDuration": "00:29"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 157.4972
+}

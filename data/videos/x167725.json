@@ -1,0 +1,40 @@
+{
+    "title": "Episode 5: Browse and Buy with Video",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1400633583",
+    "date_modified": "1418181428",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "167725",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-5-Browse-and-Buy-with-Video",
+    "category": null,
+    "duration": 222,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "8STxHCaeE9Y",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8STxHCaeE9Y\/maxresdefault.jpg",
+        "mediaDuration": "222",
+        "hdvFlag": 1,
+        "uploadDate": 1384857561,
+        "prettyDuration": "03:42"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 171.98932
+}

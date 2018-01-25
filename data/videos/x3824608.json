@@ -1,0 +1,43 @@
+{
+    "title": "Nike Sportswear T-Shirts",
+    "description": "Steven Jackson visits the Nike campus and is in for a surprise.",
+    "referenceId": null,
+    "date_created": "1424454635",
+    "date_modified": "1424454635",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824608",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Sportswear-T-Shirts",
+    "category": null,
+    "duration": 56,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "Z_JAkzJbM8E",
+        "hookText": "Steven Jackson visits the Nike campus and is in for a surprise.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Z_JAkzJbM8E\/maxresdefault.jpg",
+        "mediaDuration": "56",
+        "hdvFlag": 1,
+        "uploadDate": 1245377177,
+        "prettyDuration": "00:56"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 236.07909
+}

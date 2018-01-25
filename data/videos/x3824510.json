@@ -1,0 +1,43 @@
+{
+    "title": "Nike+ Presents: Bobby's Personal Best",
+    "description": "Achieve your personal best on 8.12 and make it the most active day in the history of Nike+. Riding, golfing, hoops, and skating is how Bobby pulled off his p...",
+    "referenceId": null,
+    "date_created": "1424454626",
+    "date_modified": "1424454626",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824510",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Presents-Bobby-s-Personal-Best",
+    "category": null,
+    "duration": 120,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "j3PUD9TWFe8",
+        "hookText": "Achieve your personal best on 8.12 and make it the most active day in the history of Nike+. Riding, golfing, hoops, and skating is how Bobby pulled off his p...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/j3PUD9TWFe8\/maxresdefault.jpg",
+        "mediaDuration": "120",
+        "hdvFlag": 1,
+        "uploadDate": 1344731724,
+        "prettyDuration": "02:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "20",
+        "12",
+        "28"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 438.67816
+}

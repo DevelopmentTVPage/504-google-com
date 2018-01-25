@@ -1,0 +1,40 @@
+{
+    "title": "Video Comerciales Steren: El Escape",
+    "description": "Video de entretenimiento. Steren soluciona tanto en tu vida.. que a veces quisieras que pudiera solucionarlo todo. L\u00e1stima que Steren, tiene las mejores solu...",
+    "referenceId": null,
+    "date_created": "1385165263",
+    "date_modified": "1418181113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134159",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-Comerciales-Steren-El-Escape",
+    "category": null,
+    "duration": 60,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "eh1jXiirN_8",
+        "hookText": "Video de entretenimiento. Steren soluciona tanto en tu vida.. que a veces quisieras que pudiera solucionarlo todo. L\u00e1stima que Steren, tiene las mejores solu...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eh1jXiirN_8\/hqdefault.jpg",
+        "mediaDuration": "60",
+        "hdvFlag": 0,
+        "uploadDate": 1331344976,
+        "prettyDuration": "01:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 146.39227
+}

@@ -1,0 +1,40 @@
+{
+    "title": "California Cycleworks. A TVPage Case Study.",
+    "description": "California Cycleworks specializes in the manufacture, distribution and retail of high quality aftermarket parts for Ducati motorcycles. Cycleworks markets and sells its products to both consumers...",
+    "referenceId": null,
+    "date_created": "1402297229",
+    "date_modified": "1418181476",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "171631",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "California-Cycleworks-A-TVPage-Case-Study",
+    "category": null,
+    "duration": 193,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "UPw5oBSQR10",
+        "hookText": "California Cycleworks specializes in the manufacture, distribution and retail of high quality aftermarket parts for Ducati motorcycles. Cycleworks markets and sells its products to both consumers...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UPw5oBSQR10\/maxresdefault.jpg",
+        "mediaDuration": "193",
+        "hdvFlag": 1,
+        "uploadDate": 1402244651,
+        "prettyDuration": "03:13"
+    },
+    "transcripts": null,
+    "VV_VI": "48",
+    "CVV_VI": null,
+    "engagement_score": "2",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 343.80942
+}

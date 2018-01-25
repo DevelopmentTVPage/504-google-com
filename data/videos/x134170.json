@@ -1,0 +1,41 @@
+{
+    "title": "Video Comerciales Steren: Entrevista de Trabajo",
+    "description": "Video de entretenimiento. Steren, soluciones en casi todo... http:\/\/www.steren.com.mx\/",
+    "referenceId": null,
+    "date_created": "1385165264",
+    "date_modified": "1418181113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134170",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-Comerciales-Steren-Entrevista-de-Trabajo",
+    "category": null,
+    "duration": 36,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "WdmQiFui0z4",
+        "hookText": "Video de entretenimiento. Steren, soluciones en casi todo... http:\/\/www.steren.com.mx\/",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WdmQiFui0z4\/sddefault.jpg",
+        "mediaDuration": "36",
+        "hdvFlag": 0,
+        "uploadDate": 1301038027,
+        "prettyDuration": "00:36"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 31.546185
+}

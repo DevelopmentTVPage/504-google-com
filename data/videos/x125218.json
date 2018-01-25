@@ -1,0 +1,42 @@
+{
+    "title": "TRU-Testimonial",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1382373068",
+    "date_modified": "1418181068",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "125218",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "TRU-Testimonial",
+    "category": null,
+    "duration": 39,
+    "settings": [],
+    "asset": {
+        "author": "charbroil",
+        "videoId": "miou1jOrPcE",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/miou1jOrPcE\/mqdefault.jpg",
+        "mediaDuration": "39",
+        "hdvFlag": 1,
+        "uploadDate": 1349227237,
+        "prettyDuration": "00:39"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7",
+        "11",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9.994788
+}

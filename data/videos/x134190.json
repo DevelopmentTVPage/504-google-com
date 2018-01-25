@@ -1,0 +1,40 @@
+{
+    "title": "Steren Card",
+    "description": "Tienes una Steren Card? \u00a1Este video es de t\u00fa inter\u00e9s! Aqu\u00ed podr\u00e1s enterarte c\u00f3mo realizar consultas a trav\u00e9s de nuestra p\u00e1gina web, de una manera r\u00e1pida, y ...",
+    "referenceId": null,
+    "date_created": "1437693587",
+    "date_modified": "1418181113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134190",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Steren-Card",
+    "category": null,
+    "duration": 195,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "EB8_6BQ7nE8",
+        "hookText": "Tienes una Steren Card? \u00a1Este video es de t\u00fa inter\u00e9s! Aqu\u00ed podr\u00e1s enterarte c\u00f3mo realizar consultas a trav\u00e9s de nuestra p\u00e1gina web, de una manera r\u00e1pida, y ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/EB8_6BQ7nE8\/maxresdefault.jpg",
+        "mediaDuration": "195",
+        "hdvFlag": 1,
+        "uploadDate": 1368508012,
+        "prettyDuration": "03:15"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 154.81027
+}

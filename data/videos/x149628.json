@@ -1,0 +1,42 @@
+{
+    "title": "After Hours",
+    "description": "A music video for We Are Scientists, directed by Akiva Schaffer of The Lonely Island (www.thelonelyisland.com) (www.wearescientists.com).",
+    "referenceId": null,
+    "date_created": "1396559761",
+    "date_modified": "1418181242",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149628",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "After-Hours",
+    "category": null,
+    "duration": 231,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "zac0QEbQbE8",
+        "hookText": "A music video for We Are Scientists, directed by Akiva Schaffer of The Lonely Island (www.thelonelyisland.com) (www.wearescientists.com).",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zac0QEbQbE8\/hqdefault.jpg",
+        "mediaDuration": "231",
+        "hdvFlag": 0,
+        "uploadDate": 1202211778,
+        "prettyDuration": "03:51"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "28",
+        "26",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 229.8647
+}

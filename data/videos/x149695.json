@@ -1,0 +1,41 @@
+{
+    "title": "Kiv Directed a Movie!",
+    "description": "\"The Watch\" is a movie that Akiva directed!",
+    "referenceId": null,
+    "date_created": "1396559863",
+    "date_modified": "1418181243",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149695",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Kiv-Directed-a-Movie",
+    "category": null,
+    "duration": 126,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "tr2xoh239pU",
+        "hookText": "\"The Watch\" is a movie that Akiva directed!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/tr2xoh239pU\/maxresdefault.jpg",
+        "mediaDuration": "126",
+        "hdvFlag": 1,
+        "uploadDate": 1343206519,
+        "prettyDuration": "02:06"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 124.62438
+}

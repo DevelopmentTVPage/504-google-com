@@ -1,0 +1,40 @@
+{
+    "title": "Jorm dances to Arcade Fire",
+    "description": "Secret stolen footage from backstage at SNL!",
+    "referenceId": null,
+    "date_created": "1396559868",
+    "date_modified": "1418181243",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149751",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Jorm-dances-to-Arcade-Fire",
+    "category": null,
+    "duration": 19,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "ELud5PhrrlU",
+        "hookText": "Secret stolen footage from backstage at SNL!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ELud5PhrrlU\/hqdefault.jpg",
+        "mediaDuration": "19",
+        "hdvFlag": 0,
+        "uploadDate": 1172405527,
+        "prettyDuration": "00:19"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 12.4928
+}

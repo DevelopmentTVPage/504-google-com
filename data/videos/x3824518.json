@@ -1,0 +1,43 @@
+{
+    "title": "Nike LunarTR1+",
+    "description": "Explore the anatomy of the Nike LunarTR1+ and the ground-breaking technology of Nike+ Training. Game On, World. Learn more at: http:\/\/www.nike.com\/us\/en_us\/l...",
+    "referenceId": null,
+    "date_created": "1424454627",
+    "date_modified": "1424454627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824518",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-LunarTR1",
+    "category": null,
+    "duration": 45,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "LRu4rsTlLHk",
+        "hookText": "Explore the anatomy of the Nike LunarTR1+ and the ground-breaking technology of Nike+ Training. Game On, World. Learn more at: http:\/\/www.nike.com\/us\/en_us\/l...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/LRu4rsTlLHk\/maxresdefault.jpg",
+        "mediaDuration": "45",
+        "hdvFlag": 1,
+        "uploadDate": 1341015678,
+        "prettyDuration": "00:45"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "18",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 374.92484
+}

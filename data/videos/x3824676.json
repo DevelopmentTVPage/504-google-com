@@ -1,0 +1,43 @@
+{
+    "title": "Nike Air Zoom Structure 18",
+    "description": "Only one shoe has the stability and speed to keep Galen Rupp and Mary Cain on track. Keep up with them in the all-new Nike Air Zoom Structure 18.",
+    "referenceId": null,
+    "date_created": "1424454642",
+    "date_modified": "1424454642",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824676",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Air-Zoom-Structure-18",
+    "category": null,
+    "duration": 61,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "eNmEG3XERvU",
+        "hookText": "Only one shoe has the stability and speed to keep Galen Rupp and Mary Cain on track. Keep up with them in the all-new Nike Air Zoom Structure 18.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eNmEG3XERvU\/maxresdefault.jpg",
+        "mediaDuration": "61",
+        "hdvFlag": 1,
+        "uploadDate": 1412288143,
+        "prettyDuration": "01:01"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "28",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 491.4927
+}

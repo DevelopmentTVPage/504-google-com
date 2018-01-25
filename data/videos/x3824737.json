@@ -1,0 +1,42 @@
+{
+    "title": "Nike Football: Cristiano Ronaldo leaves a Vapor Trail",
+    "description": "Witness the trail of carnage as Cristiano Ronaldo and the new Nike Mercurial Vapor IX explode towards goal.\n\nBe Mercurial.",
+    "referenceId": null,
+    "date_created": "1424454639",
+    "date_modified": "1424454701",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824737",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Football-Cristiano-Ronaldo-leaves-a-Vapor-Trail",
+    "category": null,
+    "duration": 65,
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "uGOU8X2JZbc",
+        "hookText": "Witness the trail of carnage as Cristiano Ronaldo and the new Nike Mercurial Vapor IX explode towards goal.\n\nBe Mercurial.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/uGOU8X2JZbc\/maxresdefault.jpg",
+        "mediaDuration": "65",
+        "hdvFlag": 1,
+        "uploadDate": 1358438327,
+        "prettyDuration": "01:05"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 287.59265
+}

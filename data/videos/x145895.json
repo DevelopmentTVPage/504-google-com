@@ -1,0 +1,41 @@
+{
+    "title": "Petco Grooming Salon Tour",
+    "description": "Get an up close look at what you can expect when you bring your pet to a Petco grooming salon. http:\/\/www.petco.com\/grooming.",
+    "referenceId": null,
+    "date_created": "1394818911",
+    "date_modified": "1418181188",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "145895",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Petco-Grooming-Salon-Tour",
+    "category": null,
+    "duration": 78,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "DBGraxQspow",
+        "hookText": "Get an up close look at what you can expect when you bring your pet to a Petco grooming salon. http:\/\/www.petco.com\/grooming.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DBGraxQspow\/maxresdefault.jpg",
+        "mediaDuration": "78",
+        "hdvFlag": 1,
+        "uploadDate": 1328245293,
+        "prettyDuration": "01:18"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 461.2174
+}

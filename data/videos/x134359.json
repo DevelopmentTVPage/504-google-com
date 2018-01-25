@@ -1,0 +1,42 @@
+{
+    "title": "DKNY Resort 2012 Campaign Video",
+    "description": "Behind the Scenes Video from the DKNY Resort 2012 Campaign photo shoot on location in NYC.",
+    "referenceId": null,
+    "date_created": "1385415450",
+    "date_modified": "1418181115",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134359",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "DKNY-Resort-2012-Campaign-Video",
+    "category": null,
+    "duration": 35,
+    "settings": [],
+    "asset": {
+        "author": "DKNY",
+        "videoId": "qmHwE7MHFoE",
+        "hookText": "Behind the Scenes Video from the DKNY Resort 2012 Campaign photo shoot on location in NYC.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qmHwE7MHFoE\/maxresdefault.jpg",
+        "mediaDuration": "35",
+        "hdvFlag": 1,
+        "uploadDate": 1317085776,
+        "prettyDuration": "00:35"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "11",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 273.6733
+}

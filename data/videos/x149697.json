@@ -1,0 +1,42 @@
+{
+    "title": "That's My Boy Trailer - Samberg Cut",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1396559863",
+    "date_modified": "1418181243",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149697",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "That-s-My-Boy-Trailer-Samberg-Cut",
+    "category": null,
+    "duration": 62,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "ei6OtJDepN8",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ei6OtJDepN8\/maxresdefault.jpg",
+        "mediaDuration": "62",
+        "hdvFlag": 1,
+        "uploadDate": 1338631649,
+        "prettyDuration": "01:02"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "3",
+        "9",
+        "32"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 24.202381
+}

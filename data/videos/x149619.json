@@ -1,0 +1,42 @@
+{
+    "title": "X Marks The Host",
+    "description": "Andy's hosting the 2009 MTV Movie Awards! This is one of the promos! Featuring Michael Cera & Jack Black.",
+    "referenceId": null,
+    "date_created": "1396559760",
+    "date_modified": "1418181242",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149619",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "X-Marks-The-Host",
+    "category": null,
+    "duration": 31,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "3xSVI2N1-ag",
+        "hookText": "Andy's hosting the 2009 MTV Movie Awards! This is one of the promos! Featuring Michael Cera & Jack Black.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3xSVI2N1-ag\/hqdefault.jpg",
+        "mediaDuration": "31",
+        "hdvFlag": 0,
+        "uploadDate": 1241761413,
+        "prettyDuration": "00:31"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 190.33986
+}

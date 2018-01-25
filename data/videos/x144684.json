@@ -1,0 +1,40 @@
+{
+    "title": "Goodbye Odor by Marshall Pets",
+    "description": "http:\/\/video.petco.com\/?v=12610 Video featuring products available on petco.com.",
+    "referenceId": null,
+    "date_created": "1394589013",
+    "date_modified": "1418181173",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144684",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Goodbye-Odor-by-Marshall-Pets",
+    "category": null,
+    "duration": 93,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "w1TvfEV8Ju0",
+        "hookText": "http:\/\/video.petco.com\/?v=12610 Video featuring products available on petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/w1TvfEV8Ju0\/hqdefault.jpg",
+        "mediaDuration": "93",
+        "hdvFlag": 0,
+        "uploadDate": 1296625718,
+        "prettyDuration": "01:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 109.94104
+}

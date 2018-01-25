@@ -1,0 +1,41 @@
+{
+    "title": "Turtle-Cam Shows Jellyfish Lunch",
+    "description": "In researching sea turtles in Australia, National Geographic's Crittercam researchers discovered a surprise in the eating habits of the marine creatures.",
+    "referenceId": null,
+    "date_created": "1380119669",
+    "date_modified": "1418181042",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "117469",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Turtle-Cam-Shows-Jellyfish-Lunch",
+    "category": null,
+    "duration": 383,
+    "settings": [],
+    "asset": {
+        "author": "NationalGeographic",
+        "hdvFlag": 0,
+        "mediaDuration": "383",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/adgduwI1xsc\/mqdefault.jpg",
+        "uploadDate": 1243520759,
+        "videoId": "adgduwI1xsc",
+        "hookText": "In researching sea turtles in Australia, National Geographic's Crittercam researchers discovered a surprise in the eating habits of the marine creatures."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "25",
+        "30"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 181.86093
+}

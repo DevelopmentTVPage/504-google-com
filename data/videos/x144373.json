@@ -1,0 +1,42 @@
+{
+    "title": "Hagen SmartSift",
+    "description": "http:\/\/video.petco.com\/?v=37852 Hagen SmartSift: watch this video featuring products available on petco.com.",
+    "referenceId": null,
+    "date_created": "1394588979",
+    "date_modified": "1418181169",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144373",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Hagen-SmartSift",
+    "category": null,
+    "duration": 133,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "jZpHnzPHzF0",
+        "hookText": "http:\/\/video.petco.com\/?v=37852 Hagen SmartSift: watch this video featuring products available on petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/jZpHnzPHzF0\/maxresdefault.jpg",
+        "mediaDuration": "133",
+        "hdvFlag": 1,
+        "uploadDate": 1346805434,
+        "prettyDuration": "02:13"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "25",
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 161.16641
+}

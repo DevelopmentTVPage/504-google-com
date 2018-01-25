@@ -1,0 +1,43 @@
+{
+    "title": "Nike+ Training: Train Like the Pros",
+    "description": "Anytime. Anywhere. Get in the game with Nike+ Training. Game On, World. Learn More: http:\/\/www.nike.com\/nikeplustraining.",
+    "referenceId": null,
+    "date_created": "1424454627",
+    "date_modified": "1424454627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824528",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Training-Train-Like-the-Pros",
+    "category": null,
+    "duration": 52,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "27aS3kbP42Y",
+        "hookText": "Anytime. Anywhere. Get in the game with Nike+ Training. Game On, World. Learn More: http:\/\/www.nike.com\/nikeplustraining.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/27aS3kbP42Y\/maxresdefault.jpg",
+        "mediaDuration": "52",
+        "hdvFlag": 1,
+        "uploadDate": 1340177906,
+        "prettyDuration": "00:52"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "32",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 457.64325
+}

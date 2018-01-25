@@ -1,0 +1,43 @@
+{
+    "title": "TVPage - Smart Video Marketing",
+    "description": "TVPage, the business-intelligent video marketing platform, enables merchants to convert video viewers into customers. Our platform empowers you to create and...",
+    "referenceId": null,
+    "date_created": "1400636851",
+    "date_modified": "1418181428",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "167733",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "TVPage-Smart-Video-Marketing",
+    "category": null,
+    "duration": 140,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "hdvFlag": 1,
+        "hookText": "TVPage, the business-intelligent video marketing platform, enables merchants to convert video viewers into customers. Our platform empowers you to create and...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/gPD3oU0X39U\/maxresdefault.jpg",
+        "uploadDate": 1399494288,
+        "videoId": "gPD3oU0X39U",
+        "mediaDuration": "140",
+        "prettyDuration": "02:20"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "11",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 202.30063
+}

@@ -1,0 +1,42 @@
+{
+    "title": "DKNY Original Commercial",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1385415451",
+    "date_modified": "1418181115",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134366",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "DKNY-Original-Commercial",
+    "category": null,
+    "duration": 41,
+    "settings": [],
+    "asset": {
+        "author": "DKNY",
+        "videoId": "rRKQ7znVXkA",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rRKQ7znVXkA\/hqdefault.jpg",
+        "mediaDuration": "41",
+        "hdvFlag": 0,
+        "uploadDate": 1294972596,
+        "prettyDuration": "00:41"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "30",
+        "11",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8.890578
+}

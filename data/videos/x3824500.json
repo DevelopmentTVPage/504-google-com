@@ -1,0 +1,42 @@
+{
+    "title": "Nike+ Presents: NikeFuel Missions",
+    "description": "NikeFuel Missions is here. Play now: http:\/\/nike.com\/missions Introducing NikeFuel Missions, the first game powered by your everyday movement. In a world con...",
+    "referenceId": null,
+    "date_created": "1424454625",
+    "date_modified": "1424454625",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824500",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Presents-NikeFuel-Missions",
+    "category": null,
+    "duration": 52,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "WHU7einzO9E",
+        "hookText": "NikeFuel Missions is here. Play now: http:\/\/nike.com\/missions Introducing NikeFuel Missions, the first game powered by your everyday movement. In a world con...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WHU7einzO9E\/maxresdefault.jpg",
+        "mediaDuration": "52",
+        "hdvFlag": 1,
+        "uploadDate": 1355191184,
+        "prettyDuration": "00:52"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 359.57535
+}

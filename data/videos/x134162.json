@@ -1,0 +1,41 @@
+{
+    "title": "Video Comerciales Steren: Navidad",
+    "description": "Video de entretenimiento. Porque t\u00fa lo mereces, Steren celebra esta navidad con descuentos del 10%, 20% y 30% =) | Promoci\u00f3n v\u00e1lida hasta el 15 de enero de 2...",
+    "referenceId": null,
+    "date_created": "1385165264",
+    "date_modified": "1418181113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "134162",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Video-Comerciales-Steren-Navidad",
+    "category": null,
+    "duration": 33,
+    "settings": [],
+    "asset": {
+        "author": "STERENMEDIA",
+        "videoId": "nO9_3UeMN_k",
+        "hookText": "Video de entretenimiento. Porque t\u00fa lo mereces, Steren celebra esta navidad con descuentos del 10%, 20% y 30% =) | Promoci\u00f3n v\u00e1lida hasta el 15 de enero de 2...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nO9_3UeMN_k\/sddefault.jpg",
+        "mediaDuration": "33",
+        "hdvFlag": 0,
+        "uploadDate": 1323388858,
+        "prettyDuration": "00:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33",
+        "27"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 139.53476
+}

@@ -1,0 +1,41 @@
+{
+    "title": "FIGHT BACK",
+    "description": "Winter's Angry...Fight Back with Nike Cold-Weather Performance Apparel.",
+    "referenceId": null,
+    "date_created": "1424454631",
+    "date_modified": "1424454631",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824562",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "FIGHT-BACK",
+    "category": null,
+    "duration": 40,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "IItEfU63xk8",
+        "hookText": "Winter's Angry...Fight Back with Nike Cold-Weather Performance Apparel.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/IItEfU63xk8\/maxresdefault.jpg",
+        "mediaDuration": "40",
+        "hdvFlag": 1,
+        "uploadDate": 1322107835,
+        "prettyDuration": "00:40"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 183.87202
+}

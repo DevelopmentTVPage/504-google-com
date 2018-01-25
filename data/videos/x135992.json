@@ -1,0 +1,42 @@
+{
+    "title": "Episode 2: How to Create a TVPage",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1386797327",
+    "date_modified": "1418181128",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135992",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-2-How-to-Create-a-TVPage",
+    "category": null,
+    "duration": 453,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "Lhzrb8QEWYA",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Lhzrb8QEWYA\/maxresdefault.jpg",
+        "mediaDuration": "453",
+        "hdvFlag": 1,
+        "uploadDate": 1382663887,
+        "prettyDuration": "07:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "32",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 277.38907
+}

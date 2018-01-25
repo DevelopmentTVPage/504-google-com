@@ -1,0 +1,41 @@
+{
+    "title": "2014 BMW i8 - promo film",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1386034390",
+    "date_modified": "1418181126",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135322",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "2014-BMW-i8-promo-film",
+    "category": null,
+    "duration": 146,
+    "settings": [],
+    "asset": {
+        "author": "TechnologicVehicles",
+        "hdvFlag": 1,
+        "mediaDuration": "146",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2nFOAx8j62U\/maxresdefault.jpg",
+        "uploadDate": 1379063533,
+        "videoId": "2nFOAx8j62U",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2",
+        "11",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 14.9827585
+}

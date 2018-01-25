@@ -1,0 +1,42 @@
+{
+    "title": "Master Accuracy. Hit the Target",
+    "description": "Hit The Target. Sounds simple, but this is no ordinary training drill.",
+    "referenceId": null,
+    "date_created": "1424454635",
+    "date_modified": "1424454635",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824606",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Master-Accuracy-Hit-the-Target",
+    "category": null,
+    "duration": 61,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "-DzVTvRHBA8",
+        "hookText": "Hit The Target. Sounds simple, but this is no ordinary training drill.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-DzVTvRHBA8\/hqdefault.jpg",
+        "mediaDuration": "61",
+        "hdvFlag": 0,
+        "uploadDate": 1265890854,
+        "prettyDuration": "01:01"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "22",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4755.5386
+}

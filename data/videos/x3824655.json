@@ -1,0 +1,43 @@
+{
+    "title": "Nike Presents: Nature Amplified",
+    "description": "Nike's \"Nature Amplified\" design ethos, which focuses on the body in motion and is driven by scientific data and athlete insights. Adding positives. Removing negatives. Nothing more. Nothing less. Designing for what nature would have done if nature knew w",
+    "referenceId": null,
+    "date_created": "1424454640",
+    "date_modified": "1424454640",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824655",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Presents-Nature-Amplified",
+    "category": null,
+    "duration": 75,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "UpM2fWhMI2Y",
+        "hookText": "Nike's \"Nature Amplified\" design ethos, which focuses on the body in motion and is driven by scientific data and athlete insights. Adding positives. Removing negatives. Nothing more. Nothing less. Designing for what nature would have done if nature knew what we wanted the human body to achieve.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UpM2fWhMI2Y\/sddefault.jpg",
+        "mediaDuration": "75",
+        "hdvFlag": 0,
+        "uploadDate": 1374034543,
+        "prettyDuration": "01:15"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "20",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 305.04953
+}

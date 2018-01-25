@@ -1,0 +1,42 @@
+{
+    "title": "Dogit Mind Games Interactive Game",
+    "description": "http:\/\/video.petco.com\/?v=15993 Watch this video featuring products available on petco.com.",
+    "referenceId": null,
+    "date_created": "1394589008",
+    "date_modified": "1418181173",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144637",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Dogit-Mind-Games-Interactive-Game",
+    "category": null,
+    "duration": 69,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "fywRwpnlnUo",
+        "hookText": "http:\/\/video.petco.com\/?v=15993 Watch this video featuring products available on petco.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/fywRwpnlnUo\/sddefault.jpg",
+        "mediaDuration": "69",
+        "hdvFlag": 0,
+        "uploadDate": 1304591500,
+        "prettyDuration": "01:09"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "25",
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 179.13034
+}

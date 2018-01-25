@@ -1,0 +1,41 @@
+{
+    "title": "Bellator Open Tryout - 2",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1387325004",
+    "date_modified": "1418181134",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "137536",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Bellator-Open-Tryout-2",
+    "category": null,
+    "duration": 43,
+    "settings": [],
+    "asset": {
+        "author": "Everlast",
+        "hdvFlag": 0,
+        "mediaDuration": "43",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/GgEHCJ4yktg\/mqdefault.jpg",
+        "uploadDate": 1270755034,
+        "videoId": "GgEHCJ4yktg",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "28",
+        "18",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8.565871
+}

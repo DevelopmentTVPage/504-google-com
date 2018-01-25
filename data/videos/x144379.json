@@ -1,0 +1,41 @@
+{
+    "title": "Petco Presents: Q&A with Dr. Becker - Problem Traveling",
+    "description": "Dr. Marty Becker discusses traveling with pets.",
+    "referenceId": null,
+    "date_created": "1394588980",
+    "date_modified": "1418181169",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "144379",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Petco-Presents-Q-A-with-Dr-Becker-Problem-Traveling",
+    "category": null,
+    "duration": 35,
+    "settings": [],
+    "asset": {
+        "author": "Petco",
+        "videoId": "a7KlQ_pEh6U",
+        "hookText": "Dr. Marty Becker discusses traveling with pets.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/a7KlQ_pEh6U\/sddefault.jpg",
+        "mediaDuration": "35",
+        "hdvFlag": 0,
+        "uploadDate": 1344582625,
+        "prettyDuration": "00:35"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 218.68239
+}

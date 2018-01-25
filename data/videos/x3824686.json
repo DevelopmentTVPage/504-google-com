@@ -1,0 +1,42 @@
+{
+    "title": "Nike Running Presents: The Nike Free 5.0",
+    "description": "Journey into a world of ultimate flexibility with the Nike Free 5.0.\n\nLearn more: http:\/\/www.nike.com\/Free",
+    "referenceId": null,
+    "date_created": "1424454643",
+    "date_modified": "1424454643",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824686",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Running-Presents-The-Nike-Free-5-0",
+    "category": null,
+    "duration": 33,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "A4wmQ3RAcNs",
+        "hookText": "Journey into a world of ultimate flexibility with the Nike Free 5.0.\n\nLearn more: http:\/\/www.nike.com\/Free",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/A4wmQ3RAcNs\/maxresdefault.jpg",
+        "mediaDuration": "33",
+        "hdvFlag": 1,
+        "uploadDate": 1364520170,
+        "prettyDuration": "00:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 435.97662
+}

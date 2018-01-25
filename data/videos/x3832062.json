@@ -1,0 +1,56 @@
+{
+    "title": "Support: Creating a YouTube Video Feed",
+    "description": " ",
+    "referenceId": null,
+    "date_created": "1429311631",
+    "date_modified": "1429311813",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3832062",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Support-Creating-a-YouTube-Video-Feed",
+    "category": null,
+    "duration": null,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3832062\/313c9b9f_b062_4104_b81e_8e6cd5510ac7.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3832062\/720p_313c9b9f_b062_4104_b81e_8e6cd5510ac7.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3832062\/480p_313c9b9f_b062_4104_b81e_8e6cd5510ac7.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/521\/3832062\/360p_313c9b9f_b062_4104_b81e_8e6cd5510ac7.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/521\/canvas\/655\/368\/160919035-011280720.jpg",
+        "mediaDuration": 0,
+        "prettyDuration": "00:00",
+        "hookText": " ",
+        "tags": ""
+    },
+    "transcripts": null,
+    "VV_VI": "33",
+    "CVV_VI": null,
+    "engagement_score": "1",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": [
+        "4",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 183.37573
+}

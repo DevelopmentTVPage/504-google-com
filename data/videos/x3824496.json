@@ -1,0 +1,41 @@
+{
+    "title": "DO MORE",
+    "description": "\"Without a goal, you can't score.\" With that in mind, filmmaker Casey Neistat and his friend Graham set out on a quest to do more and revisit what it means t...",
+    "referenceId": null,
+    "date_created": "1424454625",
+    "date_modified": "1424454625",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824496",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "DO-MORE",
+    "category": null,
+    "duration": 225,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "xylEd9AD6xQ",
+        "hookText": "\"Without a goal, you can't score.\" With that in mind, filmmaker Casey Neistat and his friend Graham set out on a quest to do more and revisit what it means t...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xylEd9AD6xQ\/maxresdefault.jpg",
+        "mediaDuration": "225",
+        "hdvFlag": 1,
+        "uploadDate": 1357059503,
+        "prettyDuration": "03:45"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4714.949
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Meet Our Son",
+    "description": "Andy's hosting the 2009 MTV Movie Awards! Here's another promo featuring Michael Cera & Jack Black!",
+    "referenceId": null,
+    "date_created": "1396559760",
+    "date_modified": "1418181241",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "149618",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Meet-Our-Son",
+    "category": null,
+    "duration": 61,
+    "settings": [],
+    "asset": {
+        "author": "thelonelyisland",
+        "videoId": "gEcCqPmjgOA",
+        "hookText": "Andy's hosting the 2009 MTV Movie Awards! Here's another promo featuring Michael Cera & Jack Black!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/gEcCqPmjgOA\/hqdefault.jpg",
+        "mediaDuration": "61",
+        "hdvFlag": 0,
+        "uploadDate": 1241761945,
+        "prettyDuration": "01:01"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 102.11157
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Nike+ Training: Train Like Rafael Nadal",
+    "description": "Rafael Nadal performs mountain climbers in the Nike LunarTR1+ shoe. The Nike LunarTR1+ shoe captures reps, NikeFuel and calories and transmits that informati...",
+    "referenceId": null,
+    "date_created": "1424454627",
+    "date_modified": "1424454627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824521",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Training-Train-Like-Rafael-Nadal",
+    "category": null,
+    "duration": 32,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "18XWju5Lr5I",
+        "hookText": "Rafael Nadal performs mountain climbers in the Nike LunarTR1+ shoe. The Nike LunarTR1+ shoe captures reps, NikeFuel and calories and transmits that informati...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/18XWju5Lr5I\/maxresdefault.jpg",
+        "mediaDuration": "32",
+        "hdvFlag": 1,
+        "uploadDate": 1340665249,
+        "prettyDuration": "00:32"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 154.78427
+}

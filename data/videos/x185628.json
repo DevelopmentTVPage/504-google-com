@@ -1,0 +1,44 @@
+{
+    "title": "TVPage - Smart Video Marketing Platform (Vimeo)",
+    "description": "123",
+    "referenceId": null,
+    "date_created": "1403726146",
+    "date_modified": "1418181688",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "185628",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "TVPage-Smart-Video-Marketing-Platform-Vimeo",
+    "category": null,
+    "duration": 139,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "http:\/\/player.vimeo.com\/external\/98943750.hd.mp4?s=2782f5533eb050ba212072844fd3ca77"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/521\/canvas\/655\/368\/399094134-06019201140.png",
+        "mediaDuration": "139",
+        "prettyDuration": "02:19",
+        "hookText": "123",
+        "tags": ""
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26",
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 22.42995
+}

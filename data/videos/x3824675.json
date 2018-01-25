@@ -1,0 +1,43 @@
+{
+    "title": "Nike Basketball | Give Me The Ball | Wish List",
+    "description": "Give a kid a chance, a nudge in the right direction, and astounding things can happen.",
+    "referenceId": null,
+    "date_created": "1424454641",
+    "date_modified": "1432853589",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824675",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Basketball-Give-Me-The-Ball-Wish-List",
+    "category": null,
+    "duration": 78,
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "xNd01oh5-CI",
+        "hookText": "Give a kid a chance, a nudge in the right direction, and astounding things can happen.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xNd01oh5-CI\/maxresdefault.jpg",
+        "mediaDuration": "78",
+        "hdvFlag": 1,
+        "uploadDate": 1362556464,
+        "prettyDuration": "01:18"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "28",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 303.29218
+}

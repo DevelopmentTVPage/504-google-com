@@ -1,0 +1,40 @@
+{
+    "title": "Episode 3:  Converting Viewers to Customers",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1400633583",
+    "date_modified": "1418181428",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "167723",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Episode-3-Converting-Viewers-to-Customers",
+    "category": null,
+    "duration": 249,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "videoId": "L0kqOaTwMsE",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/L0kqOaTwMsE\/maxresdefault.jpg",
+        "mediaDuration": "249",
+        "hdvFlag": 1,
+        "uploadDate": 1382749581,
+        "prettyDuration": "04:09"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 173.51033
+}

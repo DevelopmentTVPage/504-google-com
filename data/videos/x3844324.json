@@ -1,0 +1,41 @@
+{
+    "title": "Abt Electronics: Nikon D3100",
+    "description": "Steve from Abt shows off his favorite camera, the Nikon D3100, and explains some excellent features.",
+    "referenceId": null,
+    "date_created": "1433816768",
+    "date_modified": "1433816768",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3844324",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Abt-Electronics-Nikon-D3100",
+    "category": null,
+    "duration": 107,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Abt",
+        "hdvFlag": 1,
+        "hookText": "Steve from Abt shows off his favorite camera, the Nikon D3100, and explains some excellent features.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/M4YxG5NfA4g\/hqdefault.jpg",
+        "videoId": "M4YxG5NfA4g",
+        "prettyDuration": "00:01:47"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 399.60022
+}

@@ -1,0 +1,41 @@
+{
+    "title": "The Everlast Quick Wrap - How to Use",
+    "description": "How to use the Everlast Quick Wrap.",
+    "referenceId": null,
+    "date_created": "1387324959",
+    "date_modified": "1418181134",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "137522",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "The-Everlast-Quick-Wrap-How-to-Use",
+    "category": null,
+    "duration": 28,
+    "settings": [],
+    "asset": {
+        "author": "Everlast",
+        "hdvFlag": 0,
+        "mediaDuration": "28",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Ap0VlPUrbGo\/mqdefault.jpg",
+        "uploadDate": 1280763449,
+        "videoId": "Ap0VlPUrbGo",
+        "hookText": "How to use the Everlast Quick Wrap."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4",
+        "14",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4744.852
+}

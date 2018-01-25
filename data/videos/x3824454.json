@@ -1,0 +1,43 @@
+{
+    "title": "Introducing the Nike SNKRS app: Your Ultimate Sneaker Shop",
+    "description": "Shop the latest, revisit the classics, and enjoy unparalleled access to the best of Nike sneakers, all from the palm of your hand. The Nike SNKRS app allows ...",
+    "referenceId": null,
+    "date_created": "1424454620",
+    "date_modified": "1424454620",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3824454",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Introducing-the-Nike-SNKRS-app-Your-Ultimate-Sneaker-Shop",
+    "category": null,
+    "duration": 53,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nike",
+        "videoId": "pn0lTylOLLw",
+        "hookText": "Shop the latest, revisit the classics, and enjoy unparalleled access to the best of Nike sneakers, all from the palm of your hand. The Nike SNKRS app allows ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pn0lTylOLLw\/maxresdefault.jpg",
+        "mediaDuration": "53",
+        "hdvFlag": 1,
+        "uploadDate": 1423724984,
+        "prettyDuration": "00:53"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "18",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 648.58057
+}

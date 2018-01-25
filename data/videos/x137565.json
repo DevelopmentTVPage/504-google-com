@@ -1,0 +1,41 @@
+{
+    "title": "Cage Wars Championship Powered by Everlast on FightZone TV",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1387325045",
+    "date_modified": "1418181134",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "137565",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Cage-Wars-Championship-Powered-by-Everlast-on-FightZone-TV",
+    "category": null,
+    "duration": 170,
+    "settings": [],
+    "asset": {
+        "author": "Everlast",
+        "hdvFlag": 0,
+        "mediaDuration": "170",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5jn9RQh72Ew\/mqdefault.jpg",
+        "uploadDate": 1252269093,
+        "videoId": "5jn9RQh72Ew",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "26",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 124.85553
+}

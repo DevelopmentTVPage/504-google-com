@@ -1,0 +1,41 @@
+{
+    "title": "Williams Greatest Hits",
+    "description": "Take a look at the exciting career of Williams as he prepares for his May 8th fight with Cintron.",
+    "referenceId": null,
+    "date_created": "1387324974",
+    "date_modified": "1418181134",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "137531",
+    "loginId": "521",
+    "entityType": "1",
+    "titleTextEncoded": "Williams-Greatest-Hits",
+    "category": null,
+    "duration": 488,
+    "settings": [],
+    "asset": {
+        "author": "Everlast",
+        "hdvFlag": 1,
+        "mediaDuration": "488",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/R5hrYJsrY3k\/mqdefault.jpg",
+        "uploadDate": 1275843874,
+        "videoId": "R5hrYJsrY3k",
+        "hookText": "Take a look at the exciting career of Williams as he prepares for his May 8th fight with Cintron."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "14",
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 289.17444
+}
