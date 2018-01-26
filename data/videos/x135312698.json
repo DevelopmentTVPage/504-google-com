@@ -3,7 +3,7 @@
     "description": "",
     "referenceId": "bcb746f6e27ce775c3058aab3326c88d",
     "date_created": "1516919623",
-    "date_modified": "1516920311",
+    "date_modified": "1516921203",
     "tags": "",
     "sourceId": "6",
     "VIDEO_LENGTH": "SHORT",
@@ -29,6 +29,27 @@
             "width": 1280,
             "height": 720
         },
+        "mediaDuration": "119",
+        "prettyDuration": "00:01:59",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/thumb-bcb746f6e27ce775c3058aab3326c88d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v-dev.tvpage.com\/521\/135312698\/cc\/vtt\/en_1516921184.vtt",
+                "default": true
+            },
+            {
+                "label": "German",
+                "srclang": "de",
+                "src": "\/\/v-dev.tvpage.com\/521\/135312698\/cc\/vtt\/de_1516921196.vtt"
+            }
+        ],
         "sources": [
             {
                 "file": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/1080p_media.mp4",
@@ -65,13 +86,7 @@
                 "width": 320,
                 "height": 180
             }
-        ],
-        "mediaDuration": "119",
-        "prettyDuration": "00:01:59",
-        "thumbnailUrl": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/thumb-bcb746f6e27ce775c3058aab3326c88d-00002.jpg",
-        "type": "mp4",
-        "dashUrl": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/media.mpd",
-        "hlsUrl": "\/\/v-dev.tvpage.com\/521\/135312698\/4be07\/media.m3u8"
+        ]
     },
     "transcripts": "",
     "VV_VI": "",
